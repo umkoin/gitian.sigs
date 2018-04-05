@@ -1,17 +1,17 @@
 --- !!omap
 - out_manifest: |
-    0622314dfa8614f7c6891f5d58cfc2e60a57479a4540aa9f081b7f2bf074bfd7  src/umkoin-0.16.0.tar.gz
-    6d60f7fd39db125e2bac6e334b41fccbc3ceecb0089014fede9bd9464f09c784  umkoin-0.16.0-aarch64-linux-gnu-debug.tar.gz
-    5d28ce1877fd216b1fa9305eb05268eadf614b808d588a20fa7742bc314bfa03  umkoin-0.16.0-aarch64-linux-gnu.tar.gz
-    2f49b6baf342f77de87982ee4987dd9bcf66aff34c3d6d98b45dac1e5aed1a51  umkoin-0.16.0-arm-linux-gnueabihf-debug.tar.gz
-    daf68a459dfc2e8a47b9a5a10c4e30efe74f0712d9d72e0a825927f515ffbf7d  umkoin-0.16.0-arm-linux-gnueabihf.tar.gz
-    87a9c089a4fc4254b0e397d447f634160cbf314a41991dadc437e1a52178a16f  umkoin-0.16.0-i686-pc-linux-gnu-debug.tar.gz
-    e8d55266b7d3ac04f620e1e88bc09ef952b1aff660c52446a77395cb5c2cbe81  umkoin-0.16.0-i686-pc-linux-gnu.tar.gz
-    5f46b04b6409313a5456434d4dc13a05790fbc07f7f6560ec5520648827ddb18  umkoin-0.16.0-x86_64-linux-gnu-debug.tar.gz
-    608d00a48f55e7e25a0232dae7b4590cdb75ff8432152106eb6d51fa4d97b955  umkoin-0.16.0-x86_64-linux-gnu.tar.gz
+    782c56739e19a90c3977a7b9cac77e71d01b36ab1a969df4eaca5984960ca245  src/umkoin-0.16.0.tar.gz
+    d9222a9853642ecb4624a73aaa0e8570c0ba313bb7a2b147b61722be7ab97d89  umkoin-0.16.0-aarch64-linux-gnu-debug.tar.gz
+    b7b31a7fbf1bd9a7d1ce71a38da5ff2c2de30f29936b8c48fb7a137a1b3e49df  umkoin-0.16.0-aarch64-linux-gnu.tar.gz
+    c848a7c666f794bcf1e780454605e8c0229a4ba9559c25aa6c6925f0b072a51d  umkoin-0.16.0-arm-linux-gnueabihf-debug.tar.gz
+    04ab2fc0572f89f4ff8821b40ba69f469a582313561e82f954f2e21b52a548a5  umkoin-0.16.0-arm-linux-gnueabihf.tar.gz
+    3af53d50afce92401a9c5e3531e3ff873682ef2c7551b00ce57104fa2f5c363c  umkoin-0.16.0-i686-pc-linux-gnu-debug.tar.gz
+    fdf40ab040c42292faf374f6df6fdf573b6c35a6d9f33e5877741e6bbe3ce7db  umkoin-0.16.0-i686-pc-linux-gnu.tar.gz
+    c3a4db35a92da404c65d3598ae323020bad861301074c26a5c0b32853fd0858e  umkoin-0.16.0-x86_64-linux-gnu-debug.tar.gz
+    f783f708399cc0aa9a05d3a3c227dcb9500560281575ced81055cfd69e67e3d4  umkoin-0.16.0-x86_64-linux-gnu.tar.gz
 - in_manifest: |-
     40191b831b61cd873644dfe0b4e2d015be65701babfb3b12e330bd479af1b644  umkoin-linux-0.17-desc.yml
-    git:df7fcc8c5da978b1fb6934cff16b208b551c1f96 umkoin
+    git:b4f20d8bf1dbadb3f776db827d29a27f0d7556ea umkoin
 - base_manifests: !!omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
@@ -421,7 +421,7 @@
       3d26bdc4ff0de9c4451d8e782768a5688c3dbac7676318467f78f2a1e701afb3  linux-libc-dev-arm64-cross_3.13.0-12.32cross0.10_all.deb
       26bc3c1bfcaa158bed2e044eb90c1aa3d608129ce3c610cfa90202adc1b17732  linux-libc-dev-armel-cross_3.13.0-12.32cross1.104_all.deb
       327cfa8923b3a65988a1628d9dc620ed440d3fb89212a4a8a33ff7777d9cf4aa  linux-libc-dev-armhf-cross_3.13.0-12.32cross1.104_all.deb
-      eb9ed8b4771c7e1ed46f3ae4153d5c2fa90e4052fbc141f0ac05d916dc38a7d4  linux-libc-dev_3.13.0-143.192_amd64.deb
+      a0803b73db099df5b327d2d900bea61ac23d0be39922da82ebded0a615513524  linux-libc-dev_3.13.0-144.193_amd64.deb
       1a5d88e47eaeb28456e11449fd42244e7af7ccfc9d12a36ede2afb94d19f37d7  linux-libc-dev_3.13.0-24.46_amd64.deb
       998a5dfc01f07e24fe96321e2ce5a707ba1aef154c1cbacb2483722a0eee2df1  locales_2.13+git20120306-12.1_all.deb
       d78a27a94732ed1109754b72c4f1aa0d6fa81e595a18d62ef64fb7c6939f0871  locales_2.13+git20120306-12_all.deb

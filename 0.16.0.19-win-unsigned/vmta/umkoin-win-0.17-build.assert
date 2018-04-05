@@ -1,16 +1,16 @@
 --- !!omap
 - out_manifest: |
-    0622314dfa8614f7c6891f5d58cfc2e60a57479a4540aa9f081b7f2bf074bfd7  src/umkoin-0.16.0.tar.gz
-    a8914a61f4a370b086a875e883fcb27b53f2f1a5ca23fc3caf2555c1ecb553f4  umkoin-0.16.0-win-unsigned.tar.gz
-    448177b7e00c5c89d6f79fe46a2484e342bb591e04ef9ee8a9ba6dd7c2fb0be9  umkoin-0.16.0-win32-debug.zip
-    f580a708a178539ad7754129b86c6df8351bd2b536d0f4711e6efa4eeebf398f  umkoin-0.16.0-win32-setup-unsigned.exe
-    a7de402cf96ca064d3d3587256513b0e25e1b74b2aec15a04236069462a8e9f1  umkoin-0.16.0-win32.zip
-    021172fbc9f73d0dc4a0f7b72294cc5490c3be60daaa98bbea707e4f2298094f  umkoin-0.16.0-win64-debug.zip
-    0171486f105d076d54577fda6f166f519ecb7281be4f430dece3a47abfcd3bd3  umkoin-0.16.0-win64-setup-unsigned.exe
-    f29bfb0524efd1bd7a995a08e970c820e21579b9aeff3d66f2bbbc9242fd2c69  umkoin-0.16.0-win64.zip
+    782c56739e19a90c3977a7b9cac77e71d01b36ab1a969df4eaca5984960ca245  src/umkoin-0.16.0.tar.gz
+    27e115ebcf4a3d44a1e9d717aab396a6c42304ac1447e601cb723144559bd12b  umkoin-0.16.0-win-unsigned.tar.gz
+    a53405616bb22e74bb5cfa4c5bea4a07128b8081ec6421695deea548eb04379e  umkoin-0.16.0-win32-debug.zip
+    68888e8b2c181d219bd5749adb1f6ca88c5fdba5e251ab4661bb48c4fdf498e0  umkoin-0.16.0-win32-setup-unsigned.exe
+    7c6b9127655822513d023687e3cd5b57b4ccb310d5767bc95ba68562af411a3d  umkoin-0.16.0-win32.zip
+    225fb798f7f8b829ebcf50059cb727a9cf84b4456fd314eebd03263d7302d1ae  umkoin-0.16.0-win64-debug.zip
+    81de6d2f0eba2800ac259dc915d4b248dd2bc806e12b772899bd94ea429e1990  umkoin-0.16.0-win64-setup-unsigned.exe
+    ba1344b85fca97da5e871e780f75e61cd772ebc7b48937be0db92702ce2f3399  umkoin-0.16.0-win64.zip
 - in_manifest: |-
     3d2d378fb96e2dd38b2251cb9a76f2568de7df99d9519e74b01038c123d7e1ca  umkoin-win-0.17-desc.yml
-    git:df7fcc8c5da978b1fb6934cff16b208b551c1f96 umkoin
+    git:b4f20d8bf1dbadb3f776db827d29a27f0d7556ea umkoin
 - base_manifests: !!omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
@@ -355,7 +355,7 @@
       9f75129e147d1d082119f44863e2a4d80224a4e74657c1fd8ad9c42b9a1e5ec1  libwind0-heimdal_1.6~git20131207+dfsg-1ubuntu1.2_amd64.deb
       c2883d497b2acb71c63ca6023bd932a33c1d6c1f5ac38136d9a8dc3d14171b6d  libwind0-heimdal_1.6~git20131207+dfsg-1ubuntu1_amd64.deb
       5af94dbfbf9d040c3193f31fff178b4615f68915e2ae6fe8725af05bbb58c433  libxtables10_1.4.21-1ubuntu1_amd64.deb
-      eb9ed8b4771c7e1ed46f3ae4153d5c2fa90e4052fbc141f0ac05d916dc38a7d4  linux-libc-dev_3.13.0-143.192_amd64.deb
+      a0803b73db099df5b327d2d900bea61ac23d0be39922da82ebded0a615513524  linux-libc-dev_3.13.0-144.193_amd64.deb
       1a5d88e47eaeb28456e11449fd42244e7af7ccfc9d12a36ede2afb94d19f37d7  linux-libc-dev_3.13.0-24.46_amd64.deb
       998a5dfc01f07e24fe96321e2ce5a707ba1aef154c1cbacb2483722a0eee2df1  locales_2.13+git20120306-12.1_all.deb
       d78a27a94732ed1109754b72c4f1aa0d6fa81e595a18d62ef64fb7c6939f0871  locales_2.13+git20120306-12_all.deb
