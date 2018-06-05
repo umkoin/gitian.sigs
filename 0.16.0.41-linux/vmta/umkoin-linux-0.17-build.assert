@@ -1,17 +1,17 @@
 --- !!omap
 - out_manifest: |
-    099245a4fcd1564bcd98e764ecb91590f780105872db30e519e132b2faa8c724  src/umkoin-0.16.0.tar.gz
-    8969f52ac9d21fd087fb2f7e177d99aaddd4cd5c9b7ee34e02dfaa8efdf08520  umkoin-0.16.0-aarch64-linux-gnu-debug.tar.gz
-    bba5978b0d3d3ded4d51d020d772a856c337384c0e45b2f5b2fd63d7cc3dec41  umkoin-0.16.0-aarch64-linux-gnu.tar.gz
-    f18e02c757c75d9a634d9cc60014354ce7729aa53f43f961961e94e8bf66ff9e  umkoin-0.16.0-arm-linux-gnueabihf-debug.tar.gz
-    8aa7aaf88731efdf5b7ed366c8a5ae5de4fc223dffe63a283efd1a58c81dd2c5  umkoin-0.16.0-arm-linux-gnueabihf.tar.gz
-    ad35103106dfa6e5e17eb24f13fe90760467f19bc9101cf2e7bc65421bae1738  umkoin-0.16.0-i686-pc-linux-gnu-debug.tar.gz
-    7a43166ccf12f071cffa3254d200584ba6cfad1efe2faded465170f698edb878  umkoin-0.16.0-i686-pc-linux-gnu.tar.gz
-    0c4291196a66e25f6bcd4c88b446b0ad79dc656d39da87e9761e24a482f21e05  umkoin-0.16.0-x86_64-linux-gnu-debug.tar.gz
-    259504999d7d40acd2da1a949e7403bf5b64c810e9ab9eaf4be009370aed8351  umkoin-0.16.0-x86_64-linux-gnu.tar.gz
+    da434ee99ea76f8b6afa9c26c61dc1c545dc067a6451bf3587b8576c40e6a511  src/umkoin-0.16.0.tar.gz
+    42624ef18c81852381145383bd01968629149f5b1bb6f01d16230d88dfb29dbc  umkoin-0.16.0-aarch64-linux-gnu-debug.tar.gz
+    990d916723d1de1392b9e282d14f95770f64054dd68f74d55d70497c16969a68  umkoin-0.16.0-aarch64-linux-gnu.tar.gz
+    2435aa3c26cd1d4c3483fc9038089719e1898c3eb1a533ac717a9915cc7900eb  umkoin-0.16.0-arm-linux-gnueabihf-debug.tar.gz
+    6f56dfb213efda3fea687c93c1a97092bad9dfd45e6ceda3dee8b04cfe5c02ac  umkoin-0.16.0-arm-linux-gnueabihf.tar.gz
+    4c0a86a110483d7f177444c9f03168752d385f0654c740c65b02d5f546972fc1  umkoin-0.16.0-i686-pc-linux-gnu-debug.tar.gz
+    4ce4093000c1e06fc03aff9d9a7f0ce9794991a6ced16e0b58eab1d31d8ce1f4  umkoin-0.16.0-i686-pc-linux-gnu.tar.gz
+    d7bc2fcf9420f6562408049ad0f2643a270b2f3533e4527be637db0b55040d12  umkoin-0.16.0-x86_64-linux-gnu-debug.tar.gz
+    d71559799adbc40254e8b14a8d8613af992e2af2a94de15ac3ed56989b23c5be  umkoin-0.16.0-x86_64-linux-gnu.tar.gz
 - in_manifest: |-
     40191b831b61cd873644dfe0b4e2d015be65701babfb3b12e330bd479af1b644  umkoin-linux-0.17-desc.yml
-    git:d21e881fdfaac0463817a85cf9409c415b00805c umkoin
+    git:f07b19f980f931c3d1fbccf64c0f993934fac61e umkoin
 - base_manifests: !!omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
@@ -121,9 +121,9 @@
       61272a16ea205d4f3a90b17d933d51d8e27cf0fe1a10b31ac1d0029f14ed735a  ifupdown_0.7.47.2ubuntu4_amd64.deb
       b2de4721e6eafbf18db8ce4bb5c22a9014a06e88ec57151a52ca5f4f37133e17  init-system-helpers_1.14_all.deb
       a67ca65935220a63967d22112fe6d5d60cfaf11cc2058c3d80bc2b67f3b4ff54  init-system-helpers_1.14ubuntu1_all.deb
-      8cc289e3ec0329221406591931f2c48bc3ba9ebdac49266304470eeb3082ec5d  initramfs-tools-bin_0.103ubuntu4.10_amd64.deb
+      11c485299e4f5f94dc8ac5c0a2af8843cb35b10576d799fde97b243c41914bab  initramfs-tools-bin_0.103ubuntu4.11_amd64.deb
       4b9dc7558589430e65f49f5cd991441ccce7d76a6519aede6f68fa265bd6a33b  initramfs-tools-bin_0.103ubuntu4_amd64.deb
-      e2b0df2286ad4df8c36852e5c139753a37475fe0be3d116c9fd13f4ebf322356  initramfs-tools_0.103ubuntu4.10_all.deb
+      b2fe90dbea4e1cee4c3581ef3cba020bdc130f8f27eebd3c401aea24c46d4333  initramfs-tools_0.103ubuntu4.11_all.deb
       4a914c1ff5c2cfb4762e3120f675bdcf24f6c2c444a7b39d6d165d41cedbe1b5  initramfs-tools_0.103ubuntu4_all.deb
       f60aafa0f9cde70856061531d0eec21375d8e60f0b61b0eb0dc084d47d0ab660  initscripts_2.88dsf-41ubuntu6.3_amd64.deb
       5c9b3476509e8ee0fac45fb41c6ee68af85f0c9a0bbebbf703a3bfae2117fedd  initscripts_2.88dsf-41ubuntu6_amd64.deb
