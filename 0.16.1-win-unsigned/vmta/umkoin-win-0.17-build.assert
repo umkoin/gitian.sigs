@@ -406,11 +406,11 @@
       82cb48a883e696768dabf3548b0825e6193fabce69065ae7e74f6edbf41c38b2  patch_2.7.1-4ubuntu2.4_amd64.deb
       a3f5612cc65883dd9f4d1c20e9e0f0eb4dccec748cc5d44b6550c7f9ce523d93  pciutils_1%3a3.2.1-1ubuntu5.1_amd64.deb
       68f8ddd5d9278f77ad6eceb850166d4a4412140d8578211c8b9862acbaa85f95  pciutils_1%3a3.2.1-1ubuntu5_amd64.deb
-      aae27f6922936ad693c55ee0a002aab73c86f355d975128bf0756a022c6ec31e  perl-base_5.18.2-2ubuntu1.4_amd64.deb
+      9deec59180a7b34ace0cbb3941d7cc3ced95dd8fe9cf3edb448dd9a2c9ec2250  perl-base_5.18.2-2ubuntu1.6_amd64.deb
       ebe881258b63d39ece1ef66a1de1cc314923b8db17fdb84d4a9ec7dd6f10a4c7  perl-base_5.18.2-2ubuntu1_amd64.deb
-      4ca3431a641a666b7cae00e51db843e64fd2bad740b0c5eeaf7392f4d18d4ccb  perl-modules_5.18.2-2ubuntu1.4_all.deb
+      5b09903af232aec1353163f4b3c1cf84636af2f027393f22617c21321291d0c9  perl-modules_5.18.2-2ubuntu1.6_all.deb
       4e50d0d99f67d7c8653c50245fa2298a7c4b4aacb79e1ea6e2e125c36f695b68  perl-modules_5.18.2-2ubuntu1_all.deb
-      792ce79281c875e0af3c47ba6256af6f3fe75f492d458bcdd697e7da8963f1b7  perl_5.18.2-2ubuntu1.4_amd64.deb
+      f4f2d214415c6e4269c37d439825ce032aa9009c859a0145ba1779fd3f48a76a  perl_5.18.2-2ubuntu1.6_amd64.deb
       862237d65872aa17af2201c5c8f7be4dddfdb5e1c620c7475fd09d4225dfadc2  perl_5.18.2-2ubuntu1_amd64.deb
       6402dfbf3750549f4cdf4a20eca50e8ae01974b310e79cc4dd7663bb14ba878b  pkg-config_0.26-1ubuntu4_amd64.deb
       b33f4203145f1833c1be76cee7cefc38922354142b96a1ffabd061aded7fb25e  plymouth_0.8.8-0ubuntu17.2_amd64.deb
