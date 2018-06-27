@@ -1,16 +1,16 @@
 --- !!omap
 - out_manifest: |
-    7374e275e98d3e84dd92d7e6a5703bbee394daa04b1dfa7d1339828705f2f44d  src/umkoin-0.16.1.tar.gz
-    58ea878a4fdf547d35d841263538e9385957a815cf007fdd6a94f2efde0ffff0  umkoin-0.16.1-win-unsigned.tar.gz
-    9be4647febf1040138cb828cdefbe1e6b7382dcfcfb8e00d63de71a8b4ff4d96  umkoin-0.16.1-win32-debug.zip
-    e3212b6ae799a185decf1e0be7be26a261fb7d73a60d608114a0e9c12c622705  umkoin-0.16.1-win32-setup-unsigned.exe
-    1f7940c69e7548300cb72d6360bebae15b9941e8a272b8c1e1d4c5cc008f4ae7  umkoin-0.16.1-win32.zip
-    b66b8d95d333ebb6255f5940273243bca3e05b7ba7e3c5d31c79d43a4cb2f3ff  umkoin-0.16.1-win64-debug.zip
-    70914883665275cffbb72f85367bf1f284f07277781a9c4d02dea6b1b68b22ae  umkoin-0.16.1-win64-setup-unsigned.exe
-    6a00a5b2099b5b4d5d6ccad32ec764fd60af1e98e4d7a20fdd01376aec5563be  umkoin-0.16.1-win64.zip
+    4433e56b8bc10c26df66a3d2de15abfdce0a61976e0678c6310d30228ef194c9  src/umkoin-0.16.1.tar.gz
+    d68a2af8d44ac50f28c93bf384f5b357a3ceaaae81c717af1a1b612b45d97183  umkoin-0.16.1-win-unsigned.tar.gz
+    83641ab4d54ae072bfd858fd5b738d668aed18b3b03b4476e993b7758e90e9b3  umkoin-0.16.1-win32-debug.zip
+    02b5bcc16450c8e5ee01be07593f821a3d13b9e86bdf4ae7feee1470c7f3d3be  umkoin-0.16.1-win32-setup-unsigned.exe
+    ae9dc917a9a5b841e33b26f5b53229c771b7b3e68e68214f32c1d9cdb735e896  umkoin-0.16.1-win32.zip
+    56d2946b64ccd9984062e033e2c9ee570362ce36b0058f990c2deb46831044dd  umkoin-0.16.1-win64-debug.zip
+    d8abbf91699847a472f42e39d4fe3ea95e128776d2210de6187eaaa2382d5747  umkoin-0.16.1-win64-setup-unsigned.exe
+    857a4e096faef6f626e0900f0790a55c81655e4b65465d0947a5a1478832224c  umkoin-0.16.1-win64.zip
 - in_manifest: |-
     3d2d378fb96e2dd38b2251cb9a76f2568de7df99d9519e74b01038c123d7e1ca  umkoin-win-0.17-desc.yml
-    git:6bf19d3c2cfb180d609a3e4e9368270e3cef323c umkoin
+    git:21c029f725360ade47fb88349e7646438ec9260d umkoin
 - base_manifests: !!omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
