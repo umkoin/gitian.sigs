@@ -1,9 +1,9 @@
 --- !!omap
 - out_manifest: |
     57b037a7c05e57bc5adbd8e441def5f8bb1807616e432427baf70c9cb44448ea  src/umkoin-0.16.1.tar.gz
-    27aaf5f7a161f4f47cd11f15f98b8a4c0a608077e7effebfa60d109b9e95e2d2  umkoin-0.16.1-osx-unsigned.dmg
-    f1e80816d75725af07791064a3f9f63893df5844e7dd8c7257efcef8eada0004  umkoin-0.16.1-osx-unsigned.tar.gz
-    6c8d1df9f14a8bb673217db0e9d1f8e19077fd9026ad534bfe86d1dcd102b00a  umkoin-0.16.1-osx64.tar.gz
+    bbcc1ddd3c143ac23bae96e40dcfc32d36c7b0ae31d0260e1a714e9fbe8ae0b3  umkoin-0.16.1-osx-unsigned.dmg
+    a66b3808e2ae1ae48df0b368a34f45fd20c8faca1df52496db1de88e5de8c98c  umkoin-0.16.1-osx-unsigned.tar.gz
+    0a9145fe0266fbbfc037c266bb34b7563b0bd6670c89dcabd6d51bb3f6a9563d  umkoin-0.16.1-osx64.tar.gz
 - in_manifest: |-
     28fdeafeafcc761a3f4dfbc228da24c0b02de3a5beb48b3be8074cfa45185b4f  umkoin-osx-0.17-desc.yml
     fc65dd34a3665a549cf2dc005c1d13fcead9ba17cadac6dfd0ebc46435729898  MacOSX10.11.sdk.tar.gz
