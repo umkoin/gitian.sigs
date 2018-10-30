@@ -48,9 +48,9 @@
       4d15dfec3cac2d9edae8d57703bd01d05027e0fb5c1e3f4f54539768ddfd8c83  debconf_1.5.66_all.deb
       2956dc70a0bd3a56365922c8f90cf9b9d0917a0308d6ea310e0f94d8ea4e11bf  debianutils_4.8.4_amd64.deb
       4a2f0f62cb9c7bc00d535e85f5629eb9f513e9c6161474a95445db1c446b5dc1  diffutils_1%3a3.6-1_amd64.deb
-      44bfcc1800935203eac2134fb640bfd3cf0f0d9770b7cc2bc0ce1df092c3825f  distro-info-data_0.37ubuntu0.1_all.deb
-      d5bf06c6cd79f51692bbd2bf139773342ee1f77739da4fe93ccd42b6602e85ee  dpkg-dev_1.19.0.5ubuntu2_all.deb
-      ece5ad51a21fb17c0f63a755a1e925097b5137e6c62c96a6f160696928259bc3  dpkg_1.19.0.5ubuntu2_amd64.deb
+      2cc7b5c22ff0bc304754248f5fb18eab16139073f907ead02b556cb6f471409e  distro-info-data_0.37ubuntu0.2_all.deb
+      11a5806afe247bb8d756e3d43245d89b213df79653a43a19189bed626bb946c5  dpkg-dev_1.19.0.5ubuntu2.1_all.deb
+      0fc11873196d319cecab1dc16ebcc025a143636b836d41af6a473fc55ca97185  dpkg_1.19.0.5ubuntu2.1_amd64.deb
       ccc18dea2f3bfef240c179ff142fbff07d084706848579a85bbbd955e2ddc045  e2fsprogs_1.44.1-1_amd64.deb
       4b5119a3da92c33879518dce0f3152aae77a9c23a1ea9a1400976898ecda37e4  faketime_0.9.7-2_amd64.deb
       74764f7ff110b63a5c44fc6ae25d45fd600a68907638805ec187ee792c700322  fdisk_2.31.1-0.4ubuntu3.2_amd64.deb
@@ -151,7 +151,7 @@
       1268f521dbc8ef4aaaafd1d43a0943bdeec9af8f7f7be5c96ca3c9b9a54d2bf4  libdb5.3_5.3.28-13.1ubuntu1_amd64.deb
       7a3e3979966479aa108ff5ef991d00a080a37ea79822276c2ec1b6d5bf522333  libdebconfclient0_0.213ubuntu1_amd64.deb
       6ba9c0edd44421480af99ca8115d08197a541d9ac5e0c031cc650b5960d6bbd8  libdevmapper1.02.1_2%3a1.02.145-4.1ubuntu3_amd64.deb
-      2684524345c50525fcab9a65c828a5bdf2561920a3041fbe36bd42df6e991bb7  libdpkg-perl_1.19.0.5ubuntu2_all.deb
+      a3621cb439a0a4561499801d2f0bbb562103a44274ce0d98dd549b9320bc5c72  libdpkg-perl_1.19.0.5ubuntu2.1_all.deb
       414cc28beac456b78140b0a07558034c4a2987212b347401dbb6e1d375f11d32  libedit2_3.1-20170329-1_amd64.deb
       1fcf30b7f6dcd9981cd43d61b8edceff370ab5e565177758715ca905ae61aefe  liberror-perl_0.17025-1_all.deb
       202db01e1b4204b6e34e44b4f4a6ba6b3928089c2fa728db86e13cd4b8548191  libexpat1_2.2.5-3_amd64.deb
