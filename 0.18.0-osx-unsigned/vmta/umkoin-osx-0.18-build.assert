@@ -19,7 +19,7 @@
       716a1922077df772dcd8d4e462e1c5a9570c48871cbee062c23ae348b3a08fa1  autotools-dev_20180224.1_all.deb
       e0ede96ea0974a44ff86aea647167cd9cbcef4b985ee9f7e59be4bea64927581  base-files_10.1ubuntu2.4_amd64.deb
       6910f5a7f6fa9ba8eb98e3925abba9709bd28cf6f368955e536119ad39e9ad94  base-passwd_3.5.44_amd64.deb
-      5895e980d1fc874906d27823ab31eeb65cfe1d059936b9d6d304bfee02c8995c  bash_4.4.18-2ubuntu1_amd64.deb
+      6b452d96664b0d1d4271059e56cfb5b92815ad97a9d5c9d329272f4a7dddf5ef  bash_4.4.18-2ubuntu1.1_amd64.deb
       1e32e8669afbda2dc1596e3f7942067954da053b2846d05bfba68126ab2f9c67  binutils-common_2.30-21ubuntu1~18.04.1_amd64.deb
       fc716465107e61127500262c76151d4e0541f5f0750c0e8be12a0b9b1f43a9cc  binutils-x86-64-linux-gnu_2.30-21ubuntu1~18.04.1_amd64.deb
       7c9ec01c6557e5e757e8ec958c1e79a5db45a5d9412af8c53bfd8676c9e818d0  binutils_2.30-21ubuntu1~18.04.1_amd64.deb
@@ -36,14 +36,14 @@
       e0dfce15352125d085eb423199b4d98ccc87ebe24bb8b31d74488c3f092b3248  cpp-7_7.4.0-1ubuntu1~18.04_amd64.deb
       5241c4c7f3d807195035263a2e84113bbcf9c8372e2c60d6dc55b643158209b0  cpp_4%3a7.4.0-1ubuntu2.2_amd64.deb
       c985060d2c889081c311757a06df281a6bbdb83c563f43c86b3c89f934bd0d15  crda_3.18-1build1_amd64.deb
-      fe197ee8085f56d608f76ba663c8b7a141e51b39dc0131fbc6c31ea882730468  curl_7.58.0-2ubuntu3.6_amd64.deb
+      21a01a9969926000eba37ca1066b15ec4cf43dfec8967521f41c73cae90394ae  curl_7.58.0-2ubuntu3.7_amd64.deb
       51fe28b98b8e023325ae8868f29807cdb53f6f2eac943723b5e6bd47cde0cb2c  dash_0.5.8-2.10_amd64.deb
       70a84ed82def5f7e5aaf59c6519f780a9ca8dbe3c2f030e14ae948bc9011ac1b  dconf-gsettings-backend_0.26.0-2ubuntu3_amd64.deb
       e4fb1be7e022136495af23f0941ea62eb9db92790f8ba7d96be7ee5db42378f7  dconf-service_0.26.0-2ubuntu3_amd64.deb
-      4d15dfec3cac2d9edae8d57703bd01d05027e0fb5c1e3f4f54539768ddfd8c83  debconf_1.5.66_all.deb
+      132ac2ac86f2ddda238ca3a09a4d1a32a2841d05c2c489ed4d747d3cf66970ef  debconf_1.5.66ubuntu1_all.deb
       2956dc70a0bd3a56365922c8f90cf9b9d0917a0308d6ea310e0f94d8ea4e11bf  debianutils_4.8.4_amd64.deb
       4a2f0f62cb9c7bc00d535e85f5629eb9f513e9c6161474a95445db1c446b5dc1  diffutils_1%3a3.6-1_amd64.deb
-      f3aaa7892fc405cb2c73005191ffa66cc117f0264bb095bed4e07bb9b6aa986d  distro-info-data_0.37ubuntu0.4_all.deb
+      277be9837a88dcdd08efc7ae261554bf46824c23e9af85cef0c21cde41834114  distro-info-data_0.37ubuntu0.5_all.deb
       11a5806afe247bb8d756e3d43245d89b213df79653a43a19189bed626bb946c5  dpkg-dev_1.19.0.5ubuntu2.1_all.deb
       0fc11873196d319cecab1dc16ebcc025a143636b836d41af6a473fc55ca97185  dpkg_1.19.0.5ubuntu2.1_amd64.deb
       2186b5ac84e2458e3f563104b46488cfca8e3effa093f846f20c7ae97dae5875  e2fsprogs_1.44.1-1ubuntu1.1_amd64.deb
@@ -84,10 +84,10 @@
       38fad4e453558858df84b4c00394fe2bcbf006e64aff1a9a9480747909e4db38  imagemagick-6.q16_8%3a6.9.7.4+dfsg-16ubuntu6.4_amd64.deb
       265afa6a7079ee5009074593c13f18eeb1868d8e200ed677a1eaa60089b90cdb  imagemagick_8%3a6.9.7.4+dfsg-16ubuntu6.4_amd64.deb
       5be3de2fafd378bbd0a39106536c6960087bdbaa0fad88f35396ec9e1401282e  init-system-helpers_1.51_all.deb
-      95df92d371bb43cb2b672e620e360e2d11d9836d4cb532af0aeda4463a7c1901  initramfs-tools-bin_0.130ubuntu3.7_amd64.deb
-      1169511d4bf81b45b068d06971d3dc57c8fa2b60b27159984f7df158b40fef04  initramfs-tools-core_0.130ubuntu3.7_all.deb
-      dd6f9a5c9ab7e6afd9ef4707726a5719d2cef3b4394ee774ab4dd3c6f4b564ce  initramfs-tools_0.130ubuntu3.7_all.deb
-      8670a1e8e23403948be8e608c053f6915e610c3c6e36b2a4d42623733787444b  intel-microcode_3.20180807a.0ubuntu0.18.04.1_amd64.deb
+      33330c66991decb76f956630790fdcddb615d400bdacf7c9c1aff84ebf9bfc05  initramfs-tools-bin_0.130ubuntu3.8_amd64.deb
+      826db8d10de97c5eb9dc948678684be78aa0dbb0d32bb42b2b10cc36a0cb7a9f  initramfs-tools-core_0.130ubuntu3.8_all.deb
+      45e052b30eb9c37af817c4a1d79b9db9ced7ac5f42d2af494d4a38327a9258bb  initramfs-tools_0.130ubuntu3.8_all.deb
+      8386d534ac9af8890004cb3221de9ba988cb0aadd7cc125eaaf2390aa56ece08  intel-microcode_3.20190514.0ubuntu0.18.04.3_amd64.deb
       31066ceac0a040b114fc3cd03b012a483d6f5572699c71fda4140f8a6c3bb821  iucode-tool_2.3.1-1_amd64.deb
       1dc183cf940369f9a8263312a7e71cc9603dc9ad14c196002c02ab681493c39d  iw_4.14-0.1_amd64.deb
       367220c54e8f6433231c15cf70d0f7ff479d41eb6088fe05f196238e8112677f  klibc-utils_2.0.4-9ubuntu2_amd64.deb
@@ -131,9 +131,9 @@
       6682dcb3b543a819e1b6f09d84f31154bd6af802c07a43e7689c920e193caeba  libcolord2_1.3.3-2build1_amd64.deb
       cac98615479db873ade7606a1433fb15d083c1853963f22552a2cd90b01d82bd  libcom-err2_1.44.1-1ubuntu1.1_amd64.deb
       02bea4a618bb3b069106357b8f487ac25ae5c3e4942cf1d325eeadcbac117fb5  libcroco3_0.6.12-2_amd64.deb
-      da4d7da3c6c788878af3785b61b3abc03d1baa54e84fcde411ab2987ef0059b5  libcups2_2.2.7-1ubuntu2.4_amd64.deb
-      fafd126f1577b84778f51b948b73159980f6576b4600e452e9139a72c75e2540  libcurl3-gnutls_7.58.0-2ubuntu3.6_amd64.deb
-      d276d924bdac8c94d584f132ad52407d256f1663d3f94e3098c0e9a96f05b703  libcurl4_7.58.0-2ubuntu3.6_amd64.deb
+      dc82b2c1ddccb91567359bdc76a0394939946b4682ecae0693bf233c6f488325  libcups2_2.2.7-1ubuntu2.5_amd64.deb
+      f87f7fa6f79b01cc8fa0f41987335a7525951d7b1bca625837e339e8c3bd63f2  libcurl3-gnutls_7.58.0-2ubuntu3.7_amd64.deb
+      622d9a37b1567777e515a79361d0bf9815cad9ee3c86337f0ce47eb46042b25c  libcurl4_7.58.0-2ubuntu3.7_amd64.deb
       a79e168de513bd8ca8b4cf62e155732fddc5af52511f7789d4ad7e101925b813  libdatrie1_0.2.10-7_amd64.deb
       1268f521dbc8ef4aaaafd1d43a0943bdeec9af8f7f7be5c96ca3c9b9a54d2bf4  libdb5.3_5.3.28-13.1ubuntu1_amd64.deb
       a87d9e4af516cfc6ce04957d291a36347863939b4a61cbe4f16f1235d7b31b72  libdbus-1-3_1.12.2-1ubuntu1_amd64.deb
@@ -310,15 +310,15 @@
       bfda6dc44a39d6500ac2974b3113105477adce457699aadd99f022d5a4858c1c  libxrender1_1%3a0.9.10-1_amd64.deb
       ca52a957fae55f7499cb2b862fa1955303ca2a9eb6c7d5f463fadb1c48dcdbd7  libzstd1_1.3.3+dfsg-2ubuntu1_amd64.deb
       cbcfa830664e90769caad94bb82d760d7927b75cb293586123354e043725ecf8  linux-base_4.5ubuntu1_all.deb
-      23d0e8d122d86443bb2b82343b69bee7d5d8ba500437ff2bbe81e56876970950  linux-firmware_1.173.5_all.deb
+      1eeae6f5079a900785cfad6b3720c2af6e230b3ff1795999bcdc3f106d90bcac  linux-firmware_1.173.6_all.deb
       6c8bc5a29c84aa87d1bc01869fe6aa5beaddb7c68670ada4ed737368aee3a22e  linux-image-4.15.0-42-generic_4.15.0-42.45_amd64.deb
-      d6f8ebd39e13e7105fb0585363c91e4c9eaaee80a7c16d106b89d63ea482cde8  linux-image-4.15.0-48-generic_4.15.0-48.51_amd64.deb
-      0191e3b11be7becc3e4cd8ca2f27911c030ffe75708c3e65b94c866534aff446  linux-image-generic_4.15.0.48.50_amd64.deb
-      cc6cee1a19940eadb4b9ce2236a6c6943b079705129de003f966dede8798c3bb  linux-libc-dev_4.15.0-48.51_amd64.deb
+      f7ae81d776cda3493e048eac4b2c7158af29e63a93eda3b0a22f9b4d3a873118  linux-image-4.15.0-50-generic_4.15.0-50.54_amd64.deb
+      895a2fecd446f5cf93452bb69520f935b2bbf185f3b3a79664e36e3d129763c7  linux-image-generic_4.15.0.50.52_amd64.deb
+      5ebee2a566b1db58105cb60711031c6791e700b81b7c7f74c764a5b28ca34a32  linux-libc-dev_4.15.0-50.54_amd64.deb
       0333346091f046944fa50de2886c0144e7388f7ae4ba285cf80338c26d3abb21  linux-modules-4.15.0-42-generic_4.15.0-42.45_amd64.deb
-      1d71cd8809c6297b75d81a4d92f0eced19d33f7ba91bac3433c6c64c2b5b585a  linux-modules-4.15.0-48-generic_4.15.0-48.51_amd64.deb
+      94c7b5f8f80873554c39c011b7a040daa8d67fb87f069ace6a02700764b3fca9  linux-modules-4.15.0-50-generic_4.15.0-50.54_amd64.deb
       fec696db80a9c4e2776e6cad4239ffc7499a7373950b521f90c0a012aa88c171  linux-modules-extra-4.15.0-42-generic_4.15.0-42.45_amd64.deb
-      53e029650aeb2c3e256427dccf903cf7d575d759707b38a537a59c1a6a13b930  linux-modules-extra-4.15.0-48-generic_4.15.0-48.51_amd64.deb
+      a2e03d5f8389067c5eb8dc650f5a879186c5790bfcb553b43ba137754861d216  linux-modules-extra-4.15.0-50-generic_4.15.0-50.54_amd64.deb
       315d6ee1c21ca410dec962affd563528ee4bc1ec8b9fdab5755f74236658d374  locales_2.27-3ubuntu1_all.deb
       eb443f6634f8a00400e33a0306728404198726a29c73d6dbc3ebab4626f59c47  login_1%3a4.5-1ubuntu2_amd64.deb
       fc5414daefad5c2eecb490979063f7856b300fb51dc911485663b4a5067b8aa8  lsb-base_9.20170808ubuntu1_all.deb
