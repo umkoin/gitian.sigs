@@ -1,13 +1,13 @@
 --- !!omap
 - out_manifest: |
-    5cb42af3065654ba0e22441e9ffcf3d490778376d991b4dda0e112292160669b  src/umkoin-0.18.99.tar.gz
-    dbd3337599968284a8a30c9ed4f36e02b73dd839b6bc98aad8e720292f3948e8  umkoin-0.18.99-osx-unsigned.dmg
-    f9f748086b8a9a6d5d07a9f6f777faef6dc272930c9294d3fe1fe9f7e9f7229f  umkoin-0.18.99-osx-unsigned.tar.gz
-    8d6d3d5510d5b15644cd16c0da27c40f794fec673c278cb15b70371231016df8  umkoin-0.18.99-osx64.tar.gz
+    dcaca28227a4b6e11825c431eb7236843d7621dd1cb5affba2bcab2bcf5b3ffc  src/umkoin-0.18.99.tar.gz
+    1e78c9ebaa09eacc077cff6c87d9b0e2483b21abb8fb3a07c3857fd48160d4f6  umkoin-0.18.99-osx-unsigned.dmg
+    6663068fed4c679186734643dcdca8138516d66d8dd74f5815f21bd2f33bc4c1  umkoin-0.18.99-osx-unsigned.tar.gz
+    b899cb6d41513b741115ab65cdcfd0d89293549e7e9499e91510e5db350f9001  umkoin-0.18.99-osx64.tar.gz
 - in_manifest: |-
-    9b6d1e6db937c301b32d5f198987edf22f345c073043d1dde7a5f486b15e63c2  umkoin-core-osx-0.19-desc.yml
+    48c23f7fb0bcd5f5752233b18a356e01129c21e1bc06cd92fa95d626c680cb27  umkoin-core-osx-0.19-desc.yml
     fc65dd34a3665a549cf2dc005c1d13fcead9ba17cadac6dfd0ebc46435729898  MacOSX10.11.sdk.tar.gz
-    git:df30721568c2cb952e88f438fd4d1532ec25421d umkoin
+    git:0dc01e8435ebc9133c395723f28f89a4801cd8c1 umkoin
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb
@@ -392,6 +392,7 @@
     8db4ff57403f1e012ac44b70a789cb35e817234d66a0ee7a14060ecb6101d74e  download-stamps/.stamp_fetched-libX11-libX11-1.6.2.tar.bz2.hash
     ec478ded71626e812554194b0117a44d135df66914eb7fa5768b5ea93248edda  download-stamps/.stamp_fetched-libXau-libXau-1.0.8.tar.bz2.hash
     5dc2dc482dc96dac714057334bd8931ef3e0097c95138519c42d3774efaf6fc8  download-stamps/.stamp_fetched-libXext-libXext-1.3.2.tar.bz2.hash
+    1930ed8d718922514f4276ad5f4c819b514a9b2d7820fcb66b08adb6d5f74e52  download-stamps/.stamp_fetched-libXext-libXext-1.3.3.tar.bz2.hash
     532370ca823eacfac7d833ceb42f6a07f6cfc9d82d30a73047400c29235ecd75  download-stamps/.stamp_fetched-libevent-release-2.1.8-stable.tar.gz.hash
     969244f07df6dd122c0058d3a5b3f536fedfe5c0616767a3403d1154f61ec80d  download-stamps/.stamp_fetched-libxcb-libxcb-1.10.tar.bz2.hash
     40708024b9c3d26e55007cb5fa4b61cc909c84178ceb599eafbab0ac6aaaf6eb  download-stamps/.stamp_fetched-miniupnpc-miniupnpc-2.0.20170509.tar.gz.hash
@@ -429,6 +430,7 @@
     2aa027e837231d2eeea90f3a4afe19948a6eb4c8b2bec0241eba7dbc8106bd16  libX11-1.6.2.tar.bz2
     fdd477320aeb5cdd67272838722d6b7d544887dfe7de46e1e7cc0c27c2bea4f2  libXau-1.0.8.tar.bz2
     f829075bc646cdc085fa25d98d5885d83b1759ceb355933127c257e8e50432e0  libXext-1.3.2.tar.bz2
+    b518d4d332231f313371fdefac59e3776f4f0823bcb23cf7c7305bfb57b16e35  libXext-1.3.3.tar.bz2
     6569a02eb31c2827080d7d59001869ea14484c281efab0ae7f2b86af5c3120b3  libdmg-hfsplus-v0.1.tar.gz
     98d9ab05b636dd088603b64229dd1ab2d2cc02ab807892e107d674f9c3f2d5b5  libxcb-1.10.tar.bz2
     d3c368627f5cdfb66d3ebd64ca39ba54d6ff14a61966dbecb8dd296b7039f16a  miniupnpc-2.0.20170509.tar.gz
