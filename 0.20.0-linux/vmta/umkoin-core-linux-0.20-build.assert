@@ -32,11 +32,17 @@
       d34835828bad74f2289562641ba0a7b3d21f906a579f282141e63ac687b8eb72  bsdmainutils_11.1.2ubuntu1_amd64.deb
       cb3af9254a1a57a6bb1ad3c91d335765efa2ba934fe764b7cf1f791d7ad85cd7  bsdutils_1%3a2.31.1-0.4ubuntu3.6_amd64.deb
       bb2ac7aae21544446f45e200aacb961f0dcc42c8caacdc8da37d392b222abfa0  build-essential_12.4ubuntu1_amd64.deb
+<<<<<<< HEAD
       a0a4415b20f0ec1ab22454b9ad093942a06e2e3e514cfc4a872178a954cc7a94  busybox-initramfs_1%3a1.27.2-2ubuntu3.2_amd64.deb
       14955e4660d85da6507e9074f14f4d412bc7bf9e7841f327cf8751a6d227e329  bzip2_1.0.6-8.1ubuntu0.2_amd64.deb
       fcfa84619207690491a3f9ab898de3fb2d46eeb7a73d525b91d05e7655815f5b  ca-certificates_20190110~18.04.1_all.deb
       24541a48e25dfb17c98ce77dda61800e6cd68d74c25725753613fbcc00f2418f  coreutils_8.28-1ubuntu1_amd64.deb
       890e103c4928af0f0586feed78cb670f068ce144d8c323df96ce80651b24fa77  cpio_2.12+dfsg-6ubuntu0.18.04.1_amd64.deb
+=======
+      14955e4660d85da6507e9074f14f4d412bc7bf9e7841f327cf8751a6d227e329  bzip2_1.0.6-8.1ubuntu0.2_amd64.deb
+      fcfa84619207690491a3f9ab898de3fb2d46eeb7a73d525b91d05e7655815f5b  ca-certificates_20190110~18.04.1_all.deb
+      24541a48e25dfb17c98ce77dda61800e6cd68d74c25725753613fbcc00f2418f  coreutils_8.28-1ubuntu1_amd64.deb
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       591c76ff8d05b3a74794b09278de11f6857236a3ac2f819d4ec18db1f2b9fbba  cpp-7-aarch64-linux-gnu_7.5.0-3ubuntu1~18.04cross1_amd64.deb
       a7e0dd407c9a97af7e1ba4e1ead9cc2c0fbb0867edf87f16d179894af612532d  cpp-7-arm-linux-gnueabihf_7.5.0-3ubuntu1~18.04cross1_amd64.deb
       2a76f1ed3d065a7e0a9d4b6bed7141cf04626af305dfff8dd1fca7bf7d5a8114  cpp-7-riscv64-linux-gnu_7.5.0-3ubuntu1~18.04cross1_amd64.deb
@@ -114,6 +120,7 @@
       8fedf4bd27fc3f5d7b2fe3f1412e9221fbc36c47d60376fc13cf9e9d693a6557  gzip_1.6-5ubuntu1_amd64.deb
       220e0bfc812916f6f94d603096298591272dc4645a057b7734d211c7f81e9ec7  hostname_3.20_amd64.deb
       5be3de2fafd378bbd0a39106536c6960087bdbaa0fad88f35396ec9e1401282e  init-system-helpers_1.51_all.deb
+<<<<<<< HEAD
       f0b1b7acb797da8f5f77824334f5ab257a96aeb46a0df42766465aeb73f347f7  initramfs-tools-bin_0.130ubuntu3.9_amd64.deb
       54a1d0fe07af241b6a529c4c8142b66e45e852edbcad38c1577c29466051b07f  initramfs-tools-core_0.130ubuntu3.9_all.deb
       63bb2f62e226caf693b431e3b76687a08d6cc480f5b39d537ff1d954261f47c8  initramfs-tools_0.130ubuntu3.9_all.deb
@@ -121,6 +128,11 @@
       31066ceac0a040b114fc3cd03b012a483d6f5572699c71fda4140f8a6c3bb821  iucode-tool_2.3.1-1_amd64.deb
       1dc183cf940369f9a8263312a7e71cc9603dc9ad14c196002c02ab681493c39d  iw_4.14-0.1_amd64.deb
       367220c54e8f6433231c15cf70d0f7ff479d41eb6088fe05f196238e8112677f  klibc-utils_2.0.4-9ubuntu2_amd64.deb
+=======
+      077be752a258e13cb6a2abd1dd0fd317aead74d01a3867d1cfbf40bd1689f793  intel-microcode_3.20191115.1ubuntu0.18.04.2_amd64.deb
+      31066ceac0a040b114fc3cd03b012a483d6f5572699c71fda4140f8a6c3bb821  iucode-tool_2.3.1-1_amd64.deb
+      1dc183cf940369f9a8263312a7e71cc9603dc9ad14c196002c02ab681493c39d  iw_4.14-0.1_amd64.deb
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       826023db4a5d2f09fbad5ed2ab52172c2a9e1c7cccb918f0e8b009c8b7b027f0  kmod_24-1ubuntu3.4_amd64.deb
       b0b341667a2776a2e3c49350b6b3efaa7b16c7a4ad54c8f61afb4e2afdac75fa  language-pack-en-base_1%3a18.04+20180712_all.deb
       a12f3f826072887540620f277977a92344cfcd662eea549e5f4c39ff333d1d66  language-pack-en_1%3a18.04+20190718_all.deb
@@ -227,7 +239,10 @@
       457bf0aeba42cf1365bfe04af9a0094e3f5fd9104a59ea68ce95b32308ed0c69  libitm1_8.4.0-1ubuntu1~18.04_amd64.deb
       48c54179dfb1162288d996288f491451258a35135a7051f9315a4a8c2877d90f  libk5crypto3_1.16-2ubuntu0.1_amd64.deb
       0ba4ab4a5b6510de82a45a2ed69250b866f330bb761f2d478b6382a402c889f0  libkeyutils1_1.5.9-9.2ubuntu2_amd64.deb
+<<<<<<< HEAD
       46ee064e6cf6537ea83963ef70d316b98dd9a133817484c7e45384d75bb3aee4  libklibc_2.0.4-9ubuntu2_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       fc10027a6ecd7475ee906798412dc1d8e2b2931a255e6a668cde3dff90d11b0a  libkmod2_24-1ubuntu3.4_amd64.deb
       375544daaee0c81460d8be276bf6c382eb2e8fb1ca197599a82263d025f81844  libkrb5-26-heimdal_7.5.0+dfsg-1_amd64.deb
       425f11182e1a4ac70a256cd351658e249f8db68e6439247da2b9beab211617d6  libkrb5-3_1.16-2ubuntu0.1_amd64.deb
@@ -327,16 +342,23 @@
       fd111b1c8784bb6b5c054058c5aed0082211ba6e61e4342ecec168c6e6f3ddef  linux-base_4.5ubuntu1.1_all.deb
       099bbc0f958db43fad328f9f09065e448a85dcdb126691c2dab040213af13e41  linux-firmware_1.173.18_all.deb
       dac50dcb20478f3800160b714be1b1b36f1866f57bec8943338b2bf926253e72  linux-image-4.15.0-101-generic_4.15.0-101.102_amd64.deb
+<<<<<<< HEAD
       c11f862420e8ed4ab2d323fbc3d3e8d9da4a4fb657a54288751037da8a1c8f2b  linux-image-4.15.0-55-generic_4.15.0-55.60_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       d1f7c776deeeccd5c040c9d97b6284b4c1765ec7f632b918b251c7b17aeb5442  linux-image-generic_4.15.0.101.91_amd64.deb
       e4463e6338b99f612e55ed775af220bc82dcb581ce283b01448a51998c1d0cd9  linux-libc-dev-arm64-cross_4.15.0-35.38cross1.1_all.deb
       8cddb4bbd59ebc6edc6d9ecc02086817022b0162cef00a6cd02772b9d185efa2  linux-libc-dev-armhf-cross_4.15.0-35.38cross1.1_all.deb
       0e709b8838370e531e47e4ca60a48f4a9d90d2270d9110175ceaa069b7245bd5  linux-libc-dev-riscv64-cross_4.15.0-35.38cross1.2_all.deb
       15c5d342c718f2dbce90aa546d205b1ab5d2e452d099b62f7efa95070b01c15c  linux-libc-dev_4.15.0-101.102_amd64.deb
       4cb713d4037ab65acbb8e7762f6d13ef1df2ab719676591552a88f4e80e288b6  linux-modules-4.15.0-101-generic_4.15.0-101.102_amd64.deb
+<<<<<<< HEAD
       a9ff6d7a5cd51fce9b0780dbde6b295c68dd3f0824e6679f341222864081d0a5  linux-modules-4.15.0-55-generic_4.15.0-55.60_amd64.deb
       2819eaa7e79570a4cada08d70a2539196def9abc1248809fab409d8611adb79d  linux-modules-extra-4.15.0-101-generic_4.15.0-101.102_amd64.deb
       8b56cbb661d22440d7ec6c66a533aaf19d470eb411faacaa7b86fe944b51d806  linux-modules-extra-4.15.0-55-generic_4.15.0-55.60_amd64.deb
+=======
+      2819eaa7e79570a4cada08d70a2539196def9abc1248809fab409d8611adb79d  linux-modules-extra-4.15.0-101-generic_4.15.0-101.102_amd64.deb
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       315d6ee1c21ca410dec962affd563528ee4bc1ec8b9fdab5755f74236658d374  locales_2.27-3ubuntu1_all.deb
       eb443f6634f8a00400e33a0306728404198726a29c73d6dbc3ebab4626f59c47  login_1%3a4.5-1ubuntu2_amd64.deb
       fc5414daefad5c2eecb490979063f7856b300fb51dc911485663b4a5067b8aa8  lsb-base_9.20170808ubuntu1_all.deb
@@ -372,7 +394,10 @@
       787b362aba5699faa66d6db0a8af48ca7bc6a0ccc96f11f459158d73cfa52042  tar_1.29b-2ubuntu0.1_amd64.deb
       af39e00234afc33204cde7cc6f59d1651e4f69aad23e5135c7a12ca6cdf5bdad  ubuntu-keyring_2018.09.18.1~18.04.0_all.deb
       fb069365dce07ec9b04110e806736c5a5d0b0f350216c90912749226f1187ed5  ucf_3.0038_all.deb
+<<<<<<< HEAD
       11d1c6501ea15083891eb42503c30faea556d0f55eb809e3395cb9befd1ba72c  udev_237-3ubuntu10.41_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       75a5deaeafb6389ce3f6c86c366349ba7e1cc081804b48246fb57454449a5f99  util-linux_2.31.1-0.4ubuntu3.6_amd64.deb
       ccf494f932e83e08b218702b9c2fc00cfcdf697ab0c7b3af62e94f99e427f048  wget_1.19.4-1ubuntu2.2_amd64.deb
       a32309cc9f0f0f86eb079fec908a2d073470acac3092e0dbec3bc275a93cde31  wireless-regdb_2018.05.09-0ubuntu1~18.04.1_all.deb
@@ -382,6 +407,7 @@
     3e35907bf376269a844df08e03cbb43e345c88125374f2228e03724b5f9a2a04  3764b223c011574971ee3ae09ce968ba5dc2f00f.tar.gz
     380c1ca37cfa04a8699d0887a8d3ee1ad27f3d08baba78887c73b09485c0fbd3  3efb201881e7a76a21e0554906cf306432539cef.tar.gz
     56fbdc48ec110966342f0ecddd6f8f89202f4143ed2a3336e42bbf88f940850c  7ac55ec64c96f7800d9818ce64c79670e7f02b67.tar.gz
+<<<<<<< HEAD
     a09c9ba4684670a0375e42d9d67e7f12c1f62581a27f28f7c825d6d7032ccc6a  807d6fd1be5d2224872e381870c0a75387fe05e6.tar.gz
     4c0549764c5fe50b28042ec21aa2e14fe1a2224e239a1dae77d9e7f3932aa4c6  biplist-1.0.3.tar.gz
     7bcc5caace97baa948931d712ea5f37038dbb1c5d89b43ad4def4ed7cb683332  boost_1_64_0.tar.bz2
@@ -404,10 +430,25 @@
     5dc2dc482dc96dac714057334bd8931ef3e0097c95138519c42d3774efaf6fc8  download-stamps/.stamp_fetched-libXext-libXext-1.3.2.tar.bz2.hash
     384b61dec35ffc7028bef3fea26e33c2c6ed8fc81a76ae9647ad7c5e37a43680  download-stamps/.stamp_fetched-libevent-release-2.1.11-stable.tar.gz.hash
     532370ca823eacfac7d833ceb42f6a07f6cfc9d82d30a73047400c29235ecd75  download-stamps/.stamp_fetched-libevent-release-2.1.8-stable.tar.gz.hash
+=======
+    4c0549764c5fe50b28042ec21aa2e14fe1a2224e239a1dae77d9e7f3932aa4c6  biplist-1.0.3.tar.gz
+    430ae8354789de4fd19ee52f3b1f739e1fba576f0aded0897c3c2bc00fb38778  boost_1_70_0.tar.bz2
+    b50d64c214a65b1a79afe3a964c691931a4233e2ba605d793eb85d0ac3652564  cdrkit-1.1.11.tar.bz2
+    fa5416553ca94a8c071a27134c094a5fb736fe1bd0ecc5ef2d9bc02754e1bef0  clang-llvm-6.0.1-x86_64-linux-gnu-ubuntu-14.04.tar.xz
+    12edc0df75bf9abd7f82f821795bcee50f42cb2e5f76a6a281b85732798364ef  db-4.8.30.NC.tar.gz
+    535bec5356b1ff4a753fcd87f14509297d2fa044955d3bb0308e5c2e54bb2d09  download-stamps/.stamp_fetched-bdb-db-4.8.30.NC.tar.gz.hash
+    9323e689144a6ee8d0f73f4f48d65dfcdc1d0b873c6e3cb28decd4825acf8678  download-stamps/.stamp_fetched-boost-boost_1_70_0.tar.bz2.hash
+    c0188eaae30a92f267afbd38e87bad26cc2bd1ac008180730c9552f80f41ca4c  download-stamps/.stamp_fetched-expat-expat-2.2.7.tar.bz2.hash
+    23191199041c56052c2b9afcd71d748c1e0afd0de0d02d282b48329c86f69166  download-stamps/.stamp_fetched-fontconfig-fontconfig-2.12.1.tar.bz2.hash
+    b021625812c54a575243819fb614697008df8e858bdfc9e11a5cc092da87e8b0  download-stamps/.stamp_fetched-freetype-freetype-2.7.1.tar.bz2.hash
+    ec478ded71626e812554194b0117a44d135df66914eb7fa5768b5ea93248edda  download-stamps/.stamp_fetched-libXau-libXau-1.0.8.tar.bz2.hash
+    384b61dec35ffc7028bef3fea26e33c2c6ed8fc81a76ae9647ad7c5e37a43680  download-stamps/.stamp_fetched-libevent-release-2.1.11-stable.tar.gz.hash
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
     969244f07df6dd122c0058d3a5b3f536fedfe5c0616767a3403d1154f61ec80d  download-stamps/.stamp_fetched-libxcb-libxcb-1.10.tar.bz2.hash
     6d08ccdcc3ad793df90e48a692496a19e9a528d01c79a3ce1e156f607e14f730  download-stamps/.stamp_fetched-miniupnpc-miniupnpc-2.0.20180203.tar.gz.hash
     d6b485443284cf3b6c0221522ed8b898f80505916b18ec362c45be3c3e6d470e  download-stamps/.stamp_fetched-native_biplist-biplist-1.0.3.tar.gz.hash
     50ac285564ba97c82b9fd4a25446b896f8b911ea56bc23b8b17917bc62272f17  download-stamps/.stamp_fetched-native_cctools-3764b223c011574971ee3ae09ce968ba5dc2f00f.tar.gz.hash
+<<<<<<< HEAD
     e4218ec55578cb3ac4584875699a79ee6f00c5034c25fe80ba91ddf9b4d0bcce  download-stamps/.stamp_fetched-native_cctools-807d6fd1be5d2224872e381870c0a75387fe05e6.tar.gz.hash
     242fda2b08636d4016c2274f98007e3e055075a3e40f01a0bf44d2dd67b9d44b  download-stamps/.stamp_fetched-native_cdrkit-cdrkit-1.1.11.tar.bz2.hash
     04748232b0333d24937c79128a26a7d7c570dac05c6a8f26110967e795801a5a  download-stamps/.stamp_fetched-native_ds_store-v1.1.2.tar.gz.hash
@@ -576,6 +617,156 @@
     1ddca2bbb6c1e58042cf1d6eea5f13a254668630ba013b863597c314bd52013b  x86_64-linux-gnu/zeromq/zeromq-4.3.1-11d98e1bb1e.tar.gz.hash
     9d517afa26d6736c315ff5d00aeefc7433a1a45470ead2a2ac361dfc166197c5  x86_64-linux-gnu/zlib/zlib-1.2.11-56978afc008.tar.gz
     2a30fbecc78e3d0c21dd38d8a49b8fd7c7e82d9b93ecf93d9cc106d86337c484  x86_64-linux-gnu/zlib/zlib-1.2.11-56978afc008.tar.gz.hash
+=======
+    242fda2b08636d4016c2274f98007e3e055075a3e40f01a0bf44d2dd67b9d44b  download-stamps/.stamp_fetched-native_cdrkit-cdrkit-1.1.11.tar.bz2.hash
+    04748232b0333d24937c79128a26a7d7c570dac05c6a8f26110967e795801a5a  download-stamps/.stamp_fetched-native_ds_store-v1.1.2.tar.gz.hash
+    82d0d25c755fdf8ae9ca63d57aaa66a00dce8c2b2a52986ccba3172745bd476f  download-stamps/.stamp_fetched-native_libdmg-hfsplus-7ac55ec64c96f7800d9818ce64c79670e7f02b67.tar.gz.hash
+    cb8b0081c0555ce0bdcefdad036d0df9f3169e2caeceb2b1c8c13d9e5efff758  download-stamps/.stamp_fetched-native_mac_alias-v2.0.7.tar.gz.hash
+    4f1aae01029d0f1b99e12c7c7277ad2aa6029c6deb679a8b39fbea5f49bceeea  download-stamps/.stamp_fetched-qrencode-qrencode-3.4.4.tar.bz2.hash
+    ad447287e7b16ee88f4a795ac460c56eaabee9292dfa94e9f80ebb11e3cedea3  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.9.8.tar.xz.hash
+    4af4da419d7b883f3408f4481d01673d281d6cfb94ff377d4bd8355db55fcb06  download-stamps/.stamp_fetched-xcb_proto-xcb-proto-1.10.tar.bz2.hash
+    bd6d9005476f33b17b4a42e0b621c97d083653dfee0412067b1956c2520fbd9b  download-stamps/.stamp_fetched-xproto-xproto-7.0.26.tar.bz2.hash
+    67052074f10257620a8ef9b6d465a59d4200981a815e7e841bde7828a0e1e4fb  download-stamps/.stamp_fetched-zeromq-zeromq-4.3.1.tar.gz.hash
+    15eb999e692fc7accf1b7ff83271f2a6c82149b6b9aebf52319e4730c857aa9e  download-stamps/.stamp_fetched-zlib-zlib-1.2.11.tar.gz.hash
+    cbc9102f4a31a8dafd42d642e9a3aa31e79a0aedaa1f6efd2795ebc83174ec18  expat-2.2.7.tar.bz2
+    b449a3e10c47e1d1c7a6ec6e2016cca73d3bd68fbbd4f0ae5cc6b573f7d6c7f3  fontconfig-2.12.1.tar.bz2
+    3a3bb2c4e15ffb433f2032f50a5b5a92558206822e22bfe8cbe339af4aa82f88  freetype-2.7.1.tar.bz2
+    fdd477320aeb5cdd67272838722d6b7d544887dfe7de46e1e7cc0c27c2bea4f2  libXau-1.0.8.tar.bz2
+    98d9ab05b636dd088603b64229dd1ab2d2cc02ab807892e107d674f9c3f2d5b5  libxcb-1.10.tar.bz2
+    90dda8c7563ca6cd4a83e23b3c66dbbea89603a1675bfdb852897c2c9cc220b7  miniupnpc-2.0.20180203.tar.gz
+    efe5188b1ddbcbf98763b819b146be6a90481aac30cfc8d858ab78a19cde1fa5  qrencode-3.4.4.tar.bz2
+    9b9dec1f67df1f94bce2955c5604de992d529dde72050239154c56352da0907d  qtbase-opensource-src-5.9.8.tar.xz
+    a97556eb7b2f30252cdd8a598c396cfce2b2f79d2bae883af6d3b26a2cdcc63c  qttools-opensource-src-5.9.8.tar.xz
+    fb5a47799754af73d3bf501fe513342cfe2fc37f64e80df5533f6110e804220c  qttranslations-opensource-src-5.9.8.tar.xz
+    229393ab2bf0dc94694f21836846b424f3532585bac3468738b7bf752c03901e  release-2.1.11-stable.tar.gz
+    3b3ecb7bf0a5157f5b6010bc3af7c141fb0ad3527084e63336220d22744bc20c  v1.1.2.tar.gz
+    6f606d3b6bccd2112aeabf1a063f5b5ece87005a5d7e97c8faca23b916e88838  v2.0.7.tar.gz
+    7ef40ddd855b750bc597d2a435da21e55e502a0fefa85b274f2c922800baaf05  xcb-proto-1.10.tar.bz2
+    636162c1759805a5a0114a369dffdeccb8af8c859ef6e1445f26a4e6e046514f  xproto-7.0.26.tar.bz2
+    bcbabe1e2c7d0eec4ed612e10b94b112dd5f06fcefa994a0c79a45d835cd21eb  zeromq-4.3.1.tar.gz
+    c3e5e9fdd5004dcb542feda5ee4f0ff0744628baf8ed2dd5d66f8ca1197cb1a1  zlib-1.2.11.tar.gz
+- cache_package_manifest: |
+    091b4a12e177484b24463870310bc3ada68b4a169bfec3dc0b328f105f64be91  aarch64-linux-gnu/bdb/bdb-4.8.30-3132a3817a5.tar.gz
+    840cbd5e3c6391681019a93451685305fa30f16f6fa2232f0fb1ac87c4ec996c  aarch64-linux-gnu/bdb/bdb-4.8.30-3132a3817a5.tar.gz.hash
+    3f8ad8a45dcca48e0c3d382861f7dea61b290c673119077e0bd56a4c008d8bf5  aarch64-linux-gnu/boost/boost-1_70_0-ad2574993fc.tar.gz
+    44eadd84f8ab2eb4b7a0061bb3b848441ae2ddd615942273218a0cfb8995ad6f  aarch64-linux-gnu/boost/boost-1_70_0-ad2574993fc.tar.gz.hash
+    8a90f262209540fd7c0fec7f07c6b14a35a5929f3610aadef379c15238e3e189  aarch64-linux-gnu/expat/expat-2.2.7-2a478274f5e.tar.gz
+    572e02b407ead2fc839219597aa11e41dd22599bbd91d44872adb6d034740570  aarch64-linux-gnu/expat/expat-2.2.7-2a478274f5e.tar.gz.hash
+    7c912b91d089ed8b80f2379bd20374667478bbccac130872ebb43c57a668d741  aarch64-linux-gnu/fontconfig/fontconfig-2.12.1-30d7f88a444.tar.gz
+    30bb832c20dbd1af4c9a243ab6d050dbe0932f8d06b1e897961242c0dec2f1e1  aarch64-linux-gnu/fontconfig/fontconfig-2.12.1-30d7f88a444.tar.gz.hash
+    847a7ee66a961175deebd8d59d5d5e3069b364f165926f116a3e66fb7d8df9b9  aarch64-linux-gnu/freetype/freetype-2.7.1-4591a0cce7c.tar.gz
+    fcbf7bd00c27c1aceb9fe83c85978fb20d95c2f8d0ef108b8afc5a0116dd3ddd  aarch64-linux-gnu/freetype/freetype-2.7.1-4591a0cce7c.tar.gz.hash
+    72193a85a0272878d6e2dc1b21fca649c73307331cdf125501a99100b76fb034  aarch64-linux-gnu/libXau/libXau-1.0.8-e614cbf35ea.tar.gz
+    f8ac56cd34809d676f867153b5673b51b25a6687475e4f392f7d25d5409ab976  aarch64-linux-gnu/libXau/libXau-1.0.8-e614cbf35ea.tar.gz.hash
+    068745992f60585a4d66cb66335ec16147ff97024f25503660736b19a37cae21  aarch64-linux-gnu/libevent/libevent-2.1.11-stable-c9bf5266441.tar.gz
+    7f44c2f3dc440d6f580608ab615b8a5b238e4d1965ba8809618042a4181c3cc4  aarch64-linux-gnu/libevent/libevent-2.1.11-stable-c9bf5266441.tar.gz.hash
+    40c934a4f2d65efca8913bcb7de3f15690a9fa6712db0d4e23d7f9d1c183fd89  aarch64-linux-gnu/libxcb/libxcb-1.10-a5d3c2db54f.tar.gz
+    3f8b3057c2327328cdefc19aebaf35b2a2bd58c0b524e93bd85a97e0eb6eb37c  aarch64-linux-gnu/libxcb/libxcb-1.10-a5d3c2db54f.tar.gz.hash
+    60826e14f049aab3c7380b8e6dcf4c3294c436cc31db7626fb669f3ca16f2d32  aarch64-linux-gnu/miniupnpc/miniupnpc-2.0.20180203-19e8cec53de.tar.gz
+    31b7c549ec2c5ee39f3835e09ae9ed735c8ca1d60bcb0a82014f30de35283680  aarch64-linux-gnu/miniupnpc/miniupnpc-2.0.20180203-19e8cec53de.tar.gz.hash
+    6cb0833ab525b9f368333d21f50a29a3c3bba6bf8e9b5953d54870868f7a6dd2  aarch64-linux-gnu/qrencode/qrencode-3.4.4-0a6a4f0e36f.tar.gz
+    79fbf610f1358f5d6317b23f442df5c09302980f79a9112187bb3dbc08b7def9  aarch64-linux-gnu/qrencode/qrencode-3.4.4-0a6a4f0e36f.tar.gz.hash
+    850c4c2b0727bf5287d5e24b3c5bcc990b3fdbfb74355b8d2405a72950e87ed4  aarch64-linux-gnu/qt/qt-5.9.8-d341691ea20.tar.gz
+    865c95429fffa528ff4f31b1f54fb13a3e57dd11909ae59ede60280070e14993  aarch64-linux-gnu/qt/qt-5.9.8-d341691ea20.tar.gz.hash
+    b5548117ebd2d32eb1162103e77f2c453cfb91a73abf528f25d75053c8214b6f  aarch64-linux-gnu/xcb_proto/xcb_proto-1.10-e0f6458aeab.tar.gz
+    221248f4e48ecf5c8fac4149f7d1df4923c5cfd524faff5059e40398f8270ebf  aarch64-linux-gnu/xcb_proto/xcb_proto-1.10-e0f6458aeab.tar.gz.hash
+    f835df8eb4ea6d08f4ab46bd22c0a52f66b8cb2e6b72e7785bb36d2f35d7aa06  aarch64-linux-gnu/xproto/xproto-7.0.26-bbc1abceb54.tar.gz
+    e17bf6f32fb140551872be5b3555e2c3258429e44592151ec025f5c203a96ec3  aarch64-linux-gnu/xproto/xproto-7.0.26-bbc1abceb54.tar.gz.hash
+    50ffb6fdd27c5f74f155c2e4d5091fa50f0746f6c31feaaa52f9cf8880b462dd  aarch64-linux-gnu/zeromq/zeromq-4.3.1-2be7ff9c3a2.tar.gz
+    4a4c2eae4a9503b929dcc68ef7246a01bef1df913c81608e2b268c4a756dca1a  aarch64-linux-gnu/zeromq/zeromq-4.3.1-2be7ff9c3a2.tar.gz.hash
+    07f9490e463dcd662468b382ace2667dad2a52fcf941704049ca8a95e50df026  aarch64-linux-gnu/zlib/zlib-1.2.11-bb5b8d44b1e.tar.gz
+    0e7cd4015af7d7575233be7d6dceaf5a4633b20acfbbcf99aa1c78f2fc6d3a3e  aarch64-linux-gnu/zlib/zlib-1.2.11-bb5b8d44b1e.tar.gz.hash
+    5eaa67a4daaed240a251d51a27730e088f6d118a7da7869323b5a7fc4dea49b4  arm-linux-gnueabihf/bdb/bdb-4.8.30-48ebd4e9d9a.tar.gz
+    bfa4aba5260c6dc9055c1bd63c69dd62072d9832eb0bb3f2ecc560b9a3de3f9f  arm-linux-gnueabihf/bdb/bdb-4.8.30-48ebd4e9d9a.tar.gz.hash
+    13619c1ba01ee3a4c403b7a06ea6eaadcb9e7cf057de9340bac93d15fe1eb9c1  arm-linux-gnueabihf/boost/boost-1_70_0-7b17a5b3f25.tar.gz
+    3aaaa224a1990fbad3da39f3cbd881cd0b1408abc91c0863394bad78d30b69e1  arm-linux-gnueabihf/boost/boost-1_70_0-7b17a5b3f25.tar.gz.hash
+    6c97e11f04b33f04db8e45762ff95d188454ec882fa5acc0af1b667f781c9646  arm-linux-gnueabihf/expat/expat-2.2.7-fc03ffa126f.tar.gz
+    a8d2544c7b5e35b3d6276ac83b9ca6116521e9dd22e32f5493e39e0db7e5f4e6  arm-linux-gnueabihf/expat/expat-2.2.7-fc03ffa126f.tar.gz.hash
+    412c9570bb364430f4a07748c7705dddf84142b172b87aaf3d4173d797fd1861  arm-linux-gnueabihf/fontconfig/fontconfig-2.12.1-29dbbf489b2.tar.gz
+    0c7e689b09942af87adbfce4c8afc181ab49e4ce997d3889a9911f1117f34fee  arm-linux-gnueabihf/fontconfig/fontconfig-2.12.1-29dbbf489b2.tar.gz.hash
+    63fb0d1ab014483c90d00102d76cfc7426367c5ba54d1029d6969957f7c6216f  arm-linux-gnueabihf/freetype/freetype-2.7.1-6a5ec0f041b.tar.gz
+    1c83a9fa5511bb0cb0564bd3e17e1643e7ad05cc002fb6e36265956b54a5713e  arm-linux-gnueabihf/freetype/freetype-2.7.1-6a5ec0f041b.tar.gz.hash
+    bab0acec20a0d1ce7b61a4bf4c9b4d9f0640c039c31390daf2aa253540c93cee  arm-linux-gnueabihf/libXau/libXau-1.0.8-6d4b657399f.tar.gz
+    362dcbd7096a190b74cedb44dc3bed3d7cf9ad83680a019d2b0e21334e7c27fd  arm-linux-gnueabihf/libXau/libXau-1.0.8-6d4b657399f.tar.gz.hash
+    d495a823e6feeeb54c64e08c6ad17b4f7e4d554b7b14f6f70623e28c0fa20dcd  arm-linux-gnueabihf/libevent/libevent-2.1.11-stable-95edc179731.tar.gz
+    8b4087ce33dd19909b2950a48af46e2cd22ab2244f4bd7c0e98b8e6cbc6ce94d  arm-linux-gnueabihf/libevent/libevent-2.1.11-stable-95edc179731.tar.gz.hash
+    3fe9502e113c26b0a1bbf0fee7baf22bce87ee74fd3bad27155e935f814f4feb  arm-linux-gnueabihf/libxcb/libxcb-1.10-e8e9f0381b8.tar.gz
+    b2d83ccdaf79c83cac226c7730106f52e1d44ba6b4252441eed8ff129920ee1a  arm-linux-gnueabihf/libxcb/libxcb-1.10-e8e9f0381b8.tar.gz.hash
+    ec3226310100bc4974d87633d93d2ff8f3a93472c58e749292b88f07b7146976  arm-linux-gnueabihf/miniupnpc/miniupnpc-2.0.20180203-89faf494f80.tar.gz
+    f8ce7ec8c887b708027901677ac0dc1d63c79b1b85abdce06209c198be836e0d  arm-linux-gnueabihf/miniupnpc/miniupnpc-2.0.20180203-89faf494f80.tar.gz.hash
+    c69b8c25f96464efd004ac228ba9517075d19f711455afc86698ec4847ba0abd  arm-linux-gnueabihf/qrencode/qrencode-3.4.4-44af4776bb3.tar.gz
+    df03d77b23fe4b2c48e7c27cfcfe54e03ceddfbdacc762337ab5ef7abd89d507  arm-linux-gnueabihf/qrencode/qrencode-3.4.4-44af4776bb3.tar.gz.hash
+    9dce2a31a1d40b4de0a47e7d8ef099def8279082a555c0f692e6710a9967f17c  arm-linux-gnueabihf/qt/qt-5.9.8-961066c4afe.tar.gz
+    081b7cc4a018a6681f75fc661a0c17bb2a5a12f4d783d5e9b4744cd9a1c9e429  arm-linux-gnueabihf/qt/qt-5.9.8-961066c4afe.tar.gz.hash
+    075a58c86b28d0899e20a8354adbea23c5937d2df6a471112763185df7db9a3d  arm-linux-gnueabihf/xcb_proto/xcb_proto-1.10-63885fee490.tar.gz
+    d6baa70e843d1c494c5e72a46d6bf1fc513fb00e40a151ab4dde8311f84e5497  arm-linux-gnueabihf/xcb_proto/xcb_proto-1.10-63885fee490.tar.gz.hash
+    d80e290a567d234b0a5ba5c7eb7e5acd3ee94d49a3cd261b2e7eba3dfc89158a  arm-linux-gnueabihf/xproto/xproto-7.0.26-1962cf58c43.tar.gz
+    f757c0541c11904b3456a39f74e6b233c3de4ded12b73f75d9771933dfc18f60  arm-linux-gnueabihf/xproto/xproto-7.0.26-1962cf58c43.tar.gz.hash
+    bbee5d8cc88a08c1292a48c520ff4a8b97ccd50e6b671bf2b67b4bab7ea22bf0  arm-linux-gnueabihf/zeromq/zeromq-4.3.1-a62c49d2a49.tar.gz
+    2eb4e92a18f1b8b4e1ecd7e1606b222e4c30fb7579bc4c30a7d06767f711c165  arm-linux-gnueabihf/zeromq/zeromq-4.3.1-a62c49d2a49.tar.gz.hash
+    e509e90d1130e5f5c0057431f49500c7a49c3c44fcae8b262525981238b1127d  arm-linux-gnueabihf/zlib/zlib-1.2.11-17d9c9a3f69.tar.gz
+    7e6cd1b2ad93607e06dd03ce09567346bad4283ff1827d50af681b64a46d53f0  arm-linux-gnueabihf/zlib/zlib-1.2.11-17d9c9a3f69.tar.gz.hash
+    0c447dedcbee5d835ebe84380d473a8a77c081774b43ae69b886d62ba9d1a165  riscv64-linux-gnu/bdb/bdb-4.8.30-b7833c71cc9.tar.gz
+    f4dc25cc5cafb3708766fef9506b8ca4d80dfc84c257bb29db088954c037a627  riscv64-linux-gnu/bdb/bdb-4.8.30-b7833c71cc9.tar.gz.hash
+    954fdd567e7a7acb8528b6785df4a0acdedc5fd29143d608a7bc8b12e746db4b  riscv64-linux-gnu/boost/boost-1_70_0-21151018f8f.tar.gz
+    dd97b2d7cc2f486ec76f994c621cd727ab46deca4c5cb9f4cd9119521660a421  riscv64-linux-gnu/boost/boost-1_70_0-21151018f8f.tar.gz.hash
+    a358a2d35822ebde982003df5d191fafdaf22470fb07164592ddee469201fbc9  riscv64-linux-gnu/expat/expat-2.2.7-78ad4c7b29e.tar.gz
+    c93bdff15207ae30bead4cbba9daab9993531c6348c2c2592a7790f6eb5afe3c  riscv64-linux-gnu/expat/expat-2.2.7-78ad4c7b29e.tar.gz.hash
+    092b2869aba76ec9eac2c07bd3bfff6af1578792327de99499d3b0c874d029c9  riscv64-linux-gnu/fontconfig/fontconfig-2.12.1-0ce28d824f3.tar.gz
+    cb827f1a5f7eb932ffdad00b24883d3ff8ba5cdbd33045ac805646510bddf8e5  riscv64-linux-gnu/fontconfig/fontconfig-2.12.1-0ce28d824f3.tar.gz.hash
+    9c935220fb4e18c402eb0a8d1f84301314375da7f8257e768caf25b4221844c6  riscv64-linux-gnu/freetype/freetype-2.7.1-c422a52dd7f.tar.gz
+    e09c36abd27e7cdbc32fdb38820b7ddb3a7e5e1081741ffa4b3c52828d79a345  riscv64-linux-gnu/freetype/freetype-2.7.1-c422a52dd7f.tar.gz.hash
+    765dc0876ae617df0a7e06297c648e28c39d214e997169710611907e7d07a0a9  riscv64-linux-gnu/libXau/libXau-1.0.8-a82fa4d021d.tar.gz
+    358bd1c734b8aaf806e1a4021c2ea480a8cd82087599dfd612833791e14e1fda  riscv64-linux-gnu/libXau/libXau-1.0.8-a82fa4d021d.tar.gz.hash
+    e031c8c7e8ee7b234770ff9a9aa8f91c9146e9c8d9a0f24252451841d854f486  riscv64-linux-gnu/libevent/libevent-2.1.11-stable-9c8c6d70521.tar.gz
+    f99625a2bdcad02ed4c18b5732e3c0e30ff4fb4664ef949d0b341836b800b7d7  riscv64-linux-gnu/libevent/libevent-2.1.11-stable-9c8c6d70521.tar.gz.hash
+    7e1592937d4fe98a73a810edaca7ddea66dbd99b5af9174897e8dd47f0983479  riscv64-linux-gnu/libxcb/libxcb-1.10-420bedffede.tar.gz
+    fc27ab2cd0dbbc4053f3a9650109fe07fe6dc1beba4c6c84a3dbbc85cf4d9043  riscv64-linux-gnu/libxcb/libxcb-1.10-420bedffede.tar.gz.hash
+    c0f907b66084130d4b6f9baa8c59b62267860cb3178b8b430a84fbe7890c72e2  riscv64-linux-gnu/miniupnpc/miniupnpc-2.0.20180203-50fe58a6e13.tar.gz
+    ac0cb90c70f0791fb6164af09ce246edb31aefea837a006fa1908ddbc270c28c  riscv64-linux-gnu/miniupnpc/miniupnpc-2.0.20180203-50fe58a6e13.tar.gz.hash
+    71cc0cf3a8c031549358a4de7f2f6b00b313894f892749257f91dbacd0200224  riscv64-linux-gnu/qrencode/qrencode-3.4.4-fde68490bea.tar.gz
+    799eea959b750cac2482c3b0fb125d917dcaee87dfe89381ba52454202f0642f  riscv64-linux-gnu/qrencode/qrencode-3.4.4-fde68490bea.tar.gz.hash
+    2c89799ddbc462ef0e63a67edf585851ef5c7e0d0c610c66531ca95bdd8ecd27  riscv64-linux-gnu/qt/qt-5.9.8-aef9085fd01.tar.gz
+    726e2dd097aaed6777b17824b2ca948c4969dd20bfc835297de5b8dfa24a403f  riscv64-linux-gnu/qt/qt-5.9.8-aef9085fd01.tar.gz.hash
+    177d0e432641e1ac3b7011c0257f40e75526432012a806db611eecd277c70a4c  riscv64-linux-gnu/xcb_proto/xcb_proto-1.10-e2cc54bae31.tar.gz
+    186b0eeb1580120154a71c3b49fd8b17c1f0ad6b7a6e4513ece6a3865c8e6eae  riscv64-linux-gnu/xcb_proto/xcb_proto-1.10-e2cc54bae31.tar.gz.hash
+    867e39fd181ff8beae9db582f932a8ce587b32242d24fe838ce53c227015b792  riscv64-linux-gnu/xproto/xproto-7.0.26-6f65a59c194.tar.gz
+    395c438dea64f4d803df2767837d4a37f1ee66e9a345c78c59c72c489f1179ce  riscv64-linux-gnu/xproto/xproto-7.0.26-6f65a59c194.tar.gz.hash
+    998bf94645a5e0278a68e2959fc11ed1e0fd74719c11cb5526e5c1d5f6a6ee53  riscv64-linux-gnu/zeromq/zeromq-4.3.1-7bf81dc9d53.tar.gz
+    0218a755cd82a046bb23a94351d37b5a622d7c2501860dc2991e823ddcaafb61  riscv64-linux-gnu/zeromq/zeromq-4.3.1-7bf81dc9d53.tar.gz.hash
+    d65530a18c4e4e80f041eff340648982a487bde7f7b0401b92ebe7a57520e8ac  riscv64-linux-gnu/zlib/zlib-1.2.11-dde754432a7.tar.gz
+    a466183d80d694bf9f2e1164004b77e08d6aff0d942eacb4ebb46f9f57973c30  riscv64-linux-gnu/zlib/zlib-1.2.11-dde754432a7.tar.gz.hash
+    87e098ade5dcd9823c0d9b3804fcc2d4a413a485dec5420732a1351b150c8dff  x86_64-linux-gnu/bdb/bdb-4.8.30-7e228290729.tar.gz
+    c64e217638cb5603734aff96d0926984c897797ce9633ddbfb597ee1a7765abe  x86_64-linux-gnu/bdb/bdb-4.8.30-7e228290729.tar.gz.hash
+    25fe5df32995cddd6a6a016e5ee3b2529957a076e5f4a734a3e2a0541ef5cce9  x86_64-linux-gnu/boost/boost-1_70_0-409f39988ba.tar.gz
+    2ca31f6d5d95ed05bea0662232448c6622ae24e95e5252e8fa904fe197c272ef  x86_64-linux-gnu/boost/boost-1_70_0-409f39988ba.tar.gz.hash
+    47b32f2fdd4de47e4caeecfcb892006847c47bc133863174f5529a07b9877f65  x86_64-linux-gnu/expat/expat-2.2.7-f04ec8fcf0b.tar.gz
+    9c43a9c4670dd49f33297cf4405d97d73115d7c81eba150b4afc9cdf1e28e4f9  x86_64-linux-gnu/expat/expat-2.2.7-f04ec8fcf0b.tar.gz.hash
+    55b8cedd3355f28c923216808fd5b21033f0de219c99c68c3aaf612670ab73fd  x86_64-linux-gnu/fontconfig/fontconfig-2.12.1-bdd302c33cf.tar.gz
+    61d2055abbd5d992b9150e2afb1e1eb7ab70ae10ec4f1976dd199957f35ca40a  x86_64-linux-gnu/fontconfig/fontconfig-2.12.1-bdd302c33cf.tar.gz.hash
+    9ace5758537769f7be0e205f3b582125f32d595d033970c475ac59c408247502  x86_64-linux-gnu/freetype/freetype-2.7.1-e78b7b342c7.tar.gz
+    3f8904bbb64d9cae0031c1a4dec46e112ab0141906c21df6ec7bab43658b3f2b  x86_64-linux-gnu/freetype/freetype-2.7.1-e78b7b342c7.tar.gz.hash
+    a0a9747ece9608389fbcebab6417956a48040508a8f1f8d1b39fb7ae7a86a28a  x86_64-linux-gnu/libXau/libXau-1.0.8-6cca3a03e67.tar.gz
+    80ea291e6aa24a9a54ee20064d3ecbda6b4eb0222df812bd47a1839eed160931  x86_64-linux-gnu/libXau/libXau-1.0.8-6cca3a03e67.tar.gz.hash
+    bb7a2d9aca7f744e5712e38292e9b7ce5791739167e862ff54063b745e9f6bf6  x86_64-linux-gnu/libevent/libevent-2.1.11-stable-8526c64d990.tar.gz
+    9080c2328d08ea5ada1bc94eae0f34b70075bcff9dc54c456b6eada266b1dfde  x86_64-linux-gnu/libevent/libevent-2.1.11-stable-8526c64d990.tar.gz.hash
+    68a83eb2b075f226e354cc230a9196690814f88efa93c3d4325a996e25c0bae7  x86_64-linux-gnu/libxcb/libxcb-1.10-c4f6273dded.tar.gz
+    5bfc6c2eda7fb87387af168c9b19e15050dee42491731c89019e88a8a02d99e3  x86_64-linux-gnu/libxcb/libxcb-1.10-c4f6273dded.tar.gz.hash
+    1f178b46b04179e8c24949588c37c855ed0b56f03c2a02e78ce44dd3fd6744eb  x86_64-linux-gnu/miniupnpc/miniupnpc-2.0.20180203-84d4a5df3d3.tar.gz
+    3e8dd8a70f7592ebd99fb9579e3af330d77eaf224cf896e051773cf2a2f9738f  x86_64-linux-gnu/miniupnpc/miniupnpc-2.0.20180203-84d4a5df3d3.tar.gz.hash
+    d8c5e9cc9013ecb42616e2902a1518da27f5d82e8732dbba28c01d008a76220b  x86_64-linux-gnu/qrencode/qrencode-3.4.4-b2b077c9371.tar.gz
+    503ea7e91780f25766711e57a887120d63a479613e2ce687e55222041d32bc0f  x86_64-linux-gnu/qrencode/qrencode-3.4.4-b2b077c9371.tar.gz.hash
+    13c5de38ef3301ba93d916e4b9efcd5f80536015b6d841d88df9397dbda7404a  x86_64-linux-gnu/qt/qt-5.9.8-92852447860.tar.gz
+    e21867e015172a4e936ce1dc65ab7ab9d41ef83f774b31b515eca97a95d253da  x86_64-linux-gnu/qt/qt-5.9.8-92852447860.tar.gz.hash
+    cdc59b9949d0d3b4708c6f8fef53efa02a9d5f171f986d2bffe09cb8daf65039  x86_64-linux-gnu/xcb_proto/xcb_proto-1.10-3c5dd3d8c03.tar.gz
+    ea29a4ecf5e48014f095b85fd3193f1fbf49dc7f162d5f6785de11b1a28083c5  x86_64-linux-gnu/xcb_proto/xcb_proto-1.10-3c5dd3d8c03.tar.gz.hash
+    962219ad805b52a721f68d299cb3d65a58a01cb7e802d8023f79ef0acb14ffb8  x86_64-linux-gnu/xproto/xproto-7.0.26-9d155adb67d.tar.gz
+    7bb357feab1d308c93e00d61024ce2b258a49e0793458b5c4a05e33e9a104398  x86_64-linux-gnu/xproto/xproto-7.0.26-9d155adb67d.tar.gz.hash
+    469d604a161a676c8983a2c0db0310b81f0c6de8f2c52c9b3b17770fd4248c6c  x86_64-linux-gnu/zeromq/zeromq-4.3.1-11d98e1bb1e.tar.gz
+    7f0d8aacd09befea474505a152baa2ccf5b55aa4d1e61562f0880d180a3d81ce  x86_64-linux-gnu/zeromq/zeromq-4.3.1-11d98e1bb1e.tar.gz.hash
+    d49b26a06a06edfe1c1633974829d7c2c3c231ec37a16910cff07c4e6088a9e6  x86_64-linux-gnu/zlib/zlib-1.2.11-56978afc008.tar.gz
+    3e2cc10783c3db81198f770db29745f437807eba500331763f1b2cfd66059054  x86_64-linux-gnu/zlib/zlib-1.2.11-56978afc008.tar.gz.hash
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
 - release: 0.20.0-linux
 - name: umkoin-core-linux-0.20
 - type: build

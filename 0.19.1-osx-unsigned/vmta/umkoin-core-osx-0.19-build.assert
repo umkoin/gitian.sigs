@@ -26,13 +26,19 @@
       d34835828bad74f2289562641ba0a7b3d21f906a579f282141e63ac687b8eb72  bsdmainutils_11.1.2ubuntu1_amd64.deb
       d7873238aa9d5836b34be53d18ceb7a70421a0b0c94365d5e82971eb29d75b36  bsdutils_1%3a2.31.1-0.4ubuntu3.5_amd64.deb
       bb2ac7aae21544446f45e200aacb961f0dcc42c8caacdc8da37d392b222abfa0  build-essential_12.4ubuntu1_amd64.deb
+<<<<<<< HEAD
       a0a4415b20f0ec1ab22454b9ad093942a06e2e3e514cfc4a872178a954cc7a94  busybox-initramfs_1%3a1.27.2-2ubuntu3.2_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       14955e4660d85da6507e9074f14f4d412bc7bf9e7841f327cf8751a6d227e329  bzip2_1.0.6-8.1ubuntu0.2_amd64.deb
       195ffe05ae7d060146f890b1db225f5e8c3a8c505ffbea1fba30a520a1cd58d8  ca-certificates_20180409_all.deb
       011ab89d7d0a1f87d401abee744eb6709818bfb45b89e6631f166b1cfcd954a8  cmake-data_3.10.2-1ubuntu2.18.04.1_all.deb
       1354cd9b70704068f8e9e1ebc70b4d554210ccccb79e0c199813db9c5e4834aa  cmake_3.10.2-1ubuntu2.18.04.1_amd64.deb
       24541a48e25dfb17c98ce77dda61800e6cd68d74c25725753613fbcc00f2418f  coreutils_8.28-1ubuntu1_amd64.deb
+<<<<<<< HEAD
       890e103c4928af0f0586feed78cb670f068ce144d8c323df96ce80651b24fa77  cpio_2.12+dfsg-6ubuntu0.18.04.1_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       54ef20b753876e38ac478f05170ef1c4fc856db12b1dfaa0ffb14e220e527d61  cpp-7_7.5.0-3ubuntu1~18.04_amd64.deb
       6587837e97571bf64e5b673d0f0923b52e3f4e601e15df3907f9a246dd3eaae4  cpp_4%3a7.4.0-1ubuntu2.3_amd64.deb
       c985060d2c889081c311757a06df281a6bbdb83c563f43c86b3c89f934bd0d15  crda_3.18-1build1_amd64.deb
@@ -85,6 +91,7 @@
       361e368b703cae5315990332462e1088e3a0189aa1a27ca99a836d24c3a7f446  imagemagick-6.q16_8%3a6.9.7.4+dfsg-16ubuntu6.8_amd64.deb
       fb95e93e1803879e20505e7728ca4d32eda8c583c40a3b22e8d4c3b3d502a4d0  imagemagick_8%3a6.9.7.4+dfsg-16ubuntu6.8_amd64.deb
       5be3de2fafd378bbd0a39106536c6960087bdbaa0fad88f35396ec9e1401282e  init-system-helpers_1.51_all.deb
+<<<<<<< HEAD
       f0b1b7acb797da8f5f77824334f5ab257a96aeb46a0df42766465aeb73f347f7  initramfs-tools-bin_0.130ubuntu3.9_amd64.deb
       54a1d0fe07af241b6a529c4c8142b66e45e852edbcad38c1577c29466051b07f  initramfs-tools-core_0.130ubuntu3.9_all.deb
       63bb2f62e226caf693b431e3b76687a08d6cc480f5b39d537ff1d954261f47c8  initramfs-tools_0.130ubuntu3.9_all.deb
@@ -92,6 +99,11 @@
       31066ceac0a040b114fc3cd03b012a483d6f5572699c71fda4140f8a6c3bb821  iucode-tool_2.3.1-1_amd64.deb
       1dc183cf940369f9a8263312a7e71cc9603dc9ad14c196002c02ab681493c39d  iw_4.14-0.1_amd64.deb
       367220c54e8f6433231c15cf70d0f7ff479d41eb6088fe05f196238e8112677f  klibc-utils_2.0.4-9ubuntu2_amd64.deb
+=======
+      077be752a258e13cb6a2abd1dd0fd317aead74d01a3867d1cfbf40bd1689f793  intel-microcode_3.20191115.1ubuntu0.18.04.2_amd64.deb
+      31066ceac0a040b114fc3cd03b012a483d6f5572699c71fda4140f8a6c3bb821  iucode-tool_2.3.1-1_amd64.deb
+      1dc183cf940369f9a8263312a7e71cc9603dc9ad14c196002c02ab681493c39d  iw_4.14-0.1_amd64.deb
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       b5116af73609c96ba69365df33c99efa5ace2d6df7d0f2000e153a4970f5961f  kmod_24-1ubuntu3.2_amd64.deb
       b0b341667a2776a2e3c49350b6b3efaa7b16c7a4ad54c8f61afb4e2afdac75fa  language-pack-en-base_1%3a18.04+20180712_all.deb
       a12f3f826072887540620f277977a92344cfcd662eea549e5f4c39ff333d1d66  language-pack-en_1%3a18.04+20190718_all.deb
@@ -190,7 +202,10 @@
       c0467781913f8a59e60b63efcbf334f17058128076c1b265803d98e9e93815cd  libjsoncpp1_1.7.4-3_amd64.deb
       48c54179dfb1162288d996288f491451258a35135a7051f9315a4a8c2877d90f  libk5crypto3_1.16-2ubuntu0.1_amd64.deb
       0ba4ab4a5b6510de82a45a2ed69250b866f330bb761f2d478b6382a402c889f0  libkeyutils1_1.5.9-9.2ubuntu2_amd64.deb
+<<<<<<< HEAD
       46ee064e6cf6537ea83963ef70d316b98dd9a133817484c7e45384d75bb3aee4  libklibc_2.0.4-9ubuntu2_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       b1e939ec9f4dbde5eb7d8fc892ff91d326d353665295af0de978493ea9cb6853  libkmod2_24-1ubuntu3.2_amd64.deb
       375544daaee0c81460d8be276bf6c382eb2e8fb1ca197599a82263d025f81844  libkrb5-26-heimdal_7.5.0+dfsg-1_amd64.deb
       425f11182e1a4ac70a256cd351658e249f8db68e6439247da2b9beab211617d6  libkrb5-3_1.16-2ubuntu0.1_amd64.deb
@@ -309,6 +324,7 @@
       ad7f4d72fffdbb13e474b821e1bef7a7913f0cff9ff5a48c0e1a6690d10c6b9b  libzstd1_1.3.3+dfsg-2ubuntu1.1_amd64.deb
       cbcfa830664e90769caad94bb82d760d7927b75cb293586123354e043725ecf8  linux-base_4.5ubuntu1_all.deb
       b8db725230135a5b1440daa84ddcf274e1e2ba0a03493b419aa5a6fa37f26abc  linux-firmware_1.173.16_all.deb
+<<<<<<< HEAD
       c11f862420e8ed4ab2d323fbc3d3e8d9da4a4fb657a54288751037da8a1c8f2b  linux-image-4.15.0-55-generic_4.15.0-55.60_amd64.deb
       1b3cb0958c781d942e0be75bac6a2d9c37ff0505fbfd3707bd0526a2d405d98d  linux-image-4.15.0-88-generic_4.15.0-88.88_amd64.deb
       4db8f4cf7fa1047d034c95d7fdfb6c32e245f8d35e94018b2dc5a5d6643459eb  linux-image-generic_4.15.0.88.80_amd64.deb
@@ -316,6 +332,12 @@
       a9ff6d7a5cd51fce9b0780dbde6b295c68dd3f0824e6679f341222864081d0a5  linux-modules-4.15.0-55-generic_4.15.0-55.60_amd64.deb
       59de36f12fa227eaa57087417eb54f2a965ff927071c58afbbc08d94aa0e709f  linux-modules-4.15.0-88-generic_4.15.0-88.88_amd64.deb
       8b56cbb661d22440d7ec6c66a533aaf19d470eb411faacaa7b86fe944b51d806  linux-modules-extra-4.15.0-55-generic_4.15.0-55.60_amd64.deb
+=======
+      1b3cb0958c781d942e0be75bac6a2d9c37ff0505fbfd3707bd0526a2d405d98d  linux-image-4.15.0-88-generic_4.15.0-88.88_amd64.deb
+      4db8f4cf7fa1047d034c95d7fdfb6c32e245f8d35e94018b2dc5a5d6643459eb  linux-image-generic_4.15.0.88.80_amd64.deb
+      b8aed8385f9942930ddaeb86cd9d482e806abed1d69c673c7707d7752e28e5d4  linux-libc-dev_4.15.0-88.88_amd64.deb
+      59de36f12fa227eaa57087417eb54f2a965ff927071c58afbbc08d94aa0e709f  linux-modules-4.15.0-88-generic_4.15.0-88.88_amd64.deb
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       0dcc5085903e79d12b4df33e9fae68009dfd1b524d8841cd4a16b655252fd41c  linux-modules-extra-4.15.0-88-generic_4.15.0-88.88_amd64.deb
       315d6ee1c21ca410dec962affd563528ee4bc1ec8b9fdab5755f74236658d374  locales_2.27-3ubuntu1_all.deb
       eb443f6634f8a00400e33a0306728404198726a29c73d6dbc3ebab4626f59c47  login_1%3a4.5-1ubuntu2_amd64.deb
@@ -361,7 +383,10 @@
       af39e00234afc33204cde7cc6f59d1651e4f69aad23e5135c7a12ca6cdf5bdad  ubuntu-keyring_2018.09.18.1~18.04.0_all.deb
       65399cbe23b12eef5f1a878a595f82cfe1c423eec2b7e876385d3e61e3dbaa70  ubuntu-mono_16.10+18.04.20181005-0ubuntu1_all.deb
       fb069365dce07ec9b04110e806736c5a5d0b0f350216c90912749226f1187ed5  ucf_3.0038_all.deb
+<<<<<<< HEAD
       65b1dd46cfbd19b4462824af990b4e9291f30e62259dd259a8cda9b259c3aec4  udev_237-3ubuntu10.39_amd64.deb
+=======
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
       d72f00c5633e0e473cf5dd97126493722cecb13da5a7bcc729322f770c70ad97  util-linux_2.31.1-0.4ubuntu3.5_amd64.deb
       ccf494f932e83e08b218702b9c2fc00cfcdf697ab0c7b3af62e94f99e427f048  wget_1.19.4-1ubuntu2.2_amd64.deb
       a32309cc9f0f0f86eb079fec908a2d073470acac3092e0dbec3bc275a93cde31  wireless-regdb_2018.05.09-0ubuntu1~18.04.1_all.deb
@@ -382,7 +407,11 @@
     150079aa5f2d25b3c47f7d8f100c91589ff979c806b9588abdf3fd41c0d80869  download-stamps/.stamp_fetched-boost-boost_1_64_0.tar.bz2.hash
     9323e689144a6ee8d0f73f4f48d65dfcdc1d0b873c6e3cb28decd4825acf8678  download-stamps/.stamp_fetched-boost-boost_1_70_0.tar.bz2.hash
     8593f5665da44100a147fcee43d52b28afadce1c1e641acb991e0907219c13af  download-stamps/.stamp_fetched-dbus-dbus-1.10.18.tar.gz.hash
+<<<<<<< HEAD
     7482b5413c6e1d9a4d0b78a8f0bec6212e63fba3318d1263de9173bbcaedc067  download-stamps/.stamp_fetched-expat-expat-2.2.6.tar.bz2.hash
+=======
+    81650451b3d2a2b01147ea377e22f635934c363a4b972f2f4fd06cb088f9c58b  download-stamps/.stamp_fetched-expat-expat-2.2.5.tar.bz2.hash
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
     c0188eaae30a92f267afbd38e87bad26cc2bd1ac008180730c9552f80f41ca4c  download-stamps/.stamp_fetched-expat-expat-2.2.7.tar.bz2.hash
     23191199041c56052c2b9afcd71d748c1e0afd0de0d02d282b48329c86f69166  download-stamps/.stamp_fetched-fontconfig-fontconfig-2.12.1.tar.bz2.hash
     b021625812c54a575243819fb614697008df8e858bdfc9e11a5cc092da87e8b0  download-stamps/.stamp_fetched-freetype-freetype-2.7.1.tar.bz2.hash
@@ -402,15 +431,28 @@
     3728c9a0ac4bd203cbc38b0fc668914eeaaeb7a1c4d3ed9fe18c3a86028e497e  download-stamps/.stamp_fetched-openssl-openssl-1.0.1k.tar.gz.hash
     e412c568c1086517540477f53471bd60e4963b4d1c741eb3077f7384f5e2e013  download-stamps/.stamp_fetched-protobuf-protobuf-2.6.1.tar.bz2.hash
     4f1aae01029d0f1b99e12c7c7277ad2aa6029c6deb679a8b39fbea5f49bceeea  download-stamps/.stamp_fetched-qrencode-qrencode-3.4.4.tar.bz2.hash
+<<<<<<< HEAD
     d4b22239cd823ba16790457664844fd4932f8af9823e860fc1975c5e9731a5d5  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.9.7.tar.xz.hash
+=======
+    d9ba3be2b05c4e4004d87ac162c3a07f87d4a9144fb1b5befc1d5097a52c6772  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.7.1.tar.gz.hash
+    4087b01b390bfeadddaa22ef8013896f9131052e52780b6604ee056027cde126  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.9.6.tar.xz.hash
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
     ad447287e7b16ee88f4a795ac460c56eaabee9292dfa94e9f80ebb11e3cedea3  download-stamps/.stamp_fetched-qt-qtbase-opensource-src-5.9.8.tar.xz.hash
     4af4da419d7b883f3408f4481d01673d281d6cfb94ff377d4bd8355db55fcb06  download-stamps/.stamp_fetched-xcb_proto-xcb-proto-1.10.tar.bz2.hash
     ee2477a7137b31b74af6257a0667cf4865dc30627db29457533ad21090a9004b  download-stamps/.stamp_fetched-xextproto-xextproto-7.3.0.tar.bz2.hash
     bd6d9005476f33b17b4a42e0b621c97d083653dfee0412067b1956c2520fbd9b  download-stamps/.stamp_fetched-xproto-xproto-7.0.26.tar.bz2.hash
     72bd9b346743d9042c03f23f20d669a792193cacbcc40d5e6868bc08288bc904  download-stamps/.stamp_fetched-xtrans-xtrans-1.3.4.tar.bz2.hash
+<<<<<<< HEAD
     67052074f10257620a8ef9b6d465a59d4200981a815e7e841bde7828a0e1e4fb  download-stamps/.stamp_fetched-zeromq-zeromq-4.3.1.tar.gz.hash
     15eb999e692fc7accf1b7ff83271f2a6c82149b6b9aebf52319e4730c857aa9e  download-stamps/.stamp_fetched-zlib-zlib-1.2.11.tar.gz.hash
     17b43c2716d521369f82fc2dc70f359860e90fa440bea65b3b85f0b246ea81f2  expat-2.2.6.tar.bz2
+=======
+    b78d5486eff2dc50c8556922b1d137cc61ba472be197d1d00d56cdfc6c55936f  download-stamps/.stamp_fetched-zeromq-zeromq-4.2.3.tar.gz.hash
+    359da6b30bf12108358c1fc3b4201673b80c0bc1dac3f9867e0fa906db9fb339  download-stamps/.stamp_fetched-zeromq-zeromq-4.2.5.tar.gz.hash
+    67052074f10257620a8ef9b6d465a59d4200981a815e7e841bde7828a0e1e4fb  download-stamps/.stamp_fetched-zeromq-zeromq-4.3.1.tar.gz.hash
+    15eb999e692fc7accf1b7ff83271f2a6c82149b6b9aebf52319e4730c857aa9e  download-stamps/.stamp_fetched-zlib-zlib-1.2.11.tar.gz.hash
+    d9dc32efba7e74f788fcc4f212a43216fc37cf5f23f4c2339664d473353aedf6  expat-2.2.5.tar.bz2
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
     cbc9102f4a31a8dafd42d642e9a3aa31e79a0aedaa1f6efd2795ebc83174ec18  expat-2.2.7.tar.bz2
     b449a3e10c47e1d1c7a6ec6e2016cca73d3bd68fbbd4f0ae5cc6b573f7d6c7f3  fontconfig-2.12.1.tar.bz2
     3a3bb2c4e15ffb433f2032f50a5b5a92558206822e22bfe8cbe339af4aa82f88  freetype-2.7.1.tar.bz2
@@ -423,11 +465,22 @@
     8f9faeaebad088e772f4ef5e38252d472be4d878c6b3a2718c10a4fcebe7a41c  openssl-1.0.1k.tar.gz
     ee445612d544d885ae240ffbcbf9267faa9f593b7b101f21d58beceb92661910  protobuf-2.6.1.tar.bz2
     efe5188b1ddbcbf98763b819b146be6a90481aac30cfc8d858ab78a19cde1fa5  qrencode-3.4.4.tar.bz2
+<<<<<<< HEAD
     36dd9574f006eaa1e5af780e4b33d11fe39d09fd7c12f3b9d83294174bd28f00  qtbase-opensource-src-5.9.7.tar.xz
     9b9dec1f67df1f94bce2955c5604de992d529dde72050239154c56352da0907d  qtbase-opensource-src-5.9.8.tar.xz
     d62e0f70d99645d6704dbb8976fb2222443061743689943d40970c52c49367a1  qttools-opensource-src-5.9.7.tar.xz
     a97556eb7b2f30252cdd8a598c396cfce2b2f79d2bae883af6d3b26a2cdcc63c  qttools-opensource-src-5.9.8.tar.xz
     b36da7d93c3ab6fca56b32053bb73bc619c8b192bb89b74e3bcde2705f1c2a14  qttranslations-opensource-src-5.9.7.tar.xz
+=======
+    95f83e532d23b3ddbde7973f380ecae1bac13230340557276f75f2e37984e410  qtbase-opensource-src-5.7.1.tar.gz
+    eed620cb268b199bd83b3fc6a471c51d51e1dc2dbb5374fc97a0cc75facbe36f  qtbase-opensource-src-5.9.6.tar.xz
+    9b9dec1f67df1f94bce2955c5604de992d529dde72050239154c56352da0907d  qtbase-opensource-src-5.9.8.tar.xz
+    22d67de915cb8cd93e16fdd38fa006224ad9170bd217c2be1e53045a8dd02f0f  qttools-opensource-src-5.7.1.tar.gz
+    50e75417ec0c74bb8b1989d1d8e981ee83690dce7dfc0c2169f7c00f397e5117  qttools-opensource-src-5.9.6.tar.xz
+    a97556eb7b2f30252cdd8a598c396cfce2b2f79d2bae883af6d3b26a2cdcc63c  qttools-opensource-src-5.9.8.tar.xz
+    3a15aebd523c6d89fb97b2d3df866c94149653a26d27a00aac9b6d3020bc5a1d  qttranslations-opensource-src-5.7.1.tar.gz
+    9822084f8e2d2939ba39f4af4c0c2320e45d5996762a9423f833055607604ed8  qttranslations-opensource-src-5.9.6.tar.xz
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
     fb5a47799754af73d3bf501fe513342cfe2fc37f64e80df5533f6110e804220c  qttranslations-opensource-src-5.9.8.tar.xz
     316ddb401745ac5d222d7c529ef1eada12f58f6376a66c1118eee803cb70f83d  release-2.1.8-stable.tar.gz
     3b3ecb7bf0a5157f5b6010bc3af7c141fb0ad3527084e63336220d22744bc20c  v1.1.2.tar.gz
@@ -436,6 +489,7 @@
     f3f4b23ac8db9c3a9e0d8edb591713f3d70ef9c3b175970dd8823dfc92aa5bb0  xextproto-7.3.0.tar.bz2
     636162c1759805a5a0114a369dffdeccb8af8c859ef6e1445f26a4e6e046514f  xproto-7.0.26.tar.bz2
     054d4ee3efd52508c753e9f7bc655ef185a29bd2850dd9e2fc2ccc33544f583a  xtrans-1.3.4.tar.bz2
+<<<<<<< HEAD
     bcbabe1e2c7d0eec4ed612e10b94b112dd5f06fcefa994a0c79a45d835cd21eb  zeromq-4.3.1.tar.gz
     c3e5e9fdd5004dcb542feda5ee4f0ff0744628baf8ed2dd5d66f8ca1197cb1a1  zlib-1.2.11.tar.gz
 - cache_package_manifest: |
@@ -469,6 +523,43 @@
     be61cf7e5b2aeb1542dcf96ec94eaea97051133def45a3fb49a1f7527a1c2283  x86_64-apple-darwin14/zeromq/zeromq-4.3.1-c6665e9e45d.tar.gz.hash
     2e6c31245b7cc4bb7e7a0a6aef5a9e0c21dbcef4f52b395d70043b15b32022a3  x86_64-apple-darwin14/zlib/zlib-1.2.11-7a313432245.tar.gz
     b7668dc5fa1355cb481d117be1d41582cc25620300dc28bf7154d9edec156cba  x86_64-apple-darwin14/zlib/zlib-1.2.11-7a313432245.tar.gz.hash
+=======
+    8f1e2b2aade4dbfde98d82366d61baef2f62e812530160d2e6d0a5bb24e40bc0  zeromq-4.2.3.tar.gz
+    cc9090ba35713d59bb2f7d7965f877036c49c5558ea0c290b0dcc6f2a17e489f  zeromq-4.2.5.tar.gz
+    bcbabe1e2c7d0eec4ed612e10b94b112dd5f06fcefa994a0c79a45d835cd21eb  zeromq-4.3.1.tar.gz
+    c3e5e9fdd5004dcb542feda5ee4f0ff0744628baf8ed2dd5d66f8ca1197cb1a1  zlib-1.2.11.tar.gz
+- cache_package_manifest: |
+    0015cf39393c15f193a17e2859858dcae3c3b8abbdd72a9c29f5332f92d27888  x86_64-apple-darwin14/bdb/bdb-4.8.30-66636222951.tar.gz
+    eb3448460486f23d03d6436bdb66f4fa1732ccfe742ef35353c9da6c683f5f14  x86_64-apple-darwin14/bdb/bdb-4.8.30-66636222951.tar.gz.hash
+    fbc94770aa352a5a0ce662dab624452336ef56d2d46589d86d44484a4a4630ff  x86_64-apple-darwin14/boost/boost-1_70_0-6b800a3c016.tar.gz
+    08bdcae4681e4a672ca7f332a83fb405309f03e27d3e1aa0121906d90455ed97  x86_64-apple-darwin14/boost/boost-1_70_0-6b800a3c016.tar.gz.hash
+    ada4e44295a21bcb29f50c512d270ea9c85340222198bd859a5d6443a4e9f339  x86_64-apple-darwin14/libevent/libevent-2.1.8-stable-3d9a500fadd.tar.gz
+    d2d7af62da13ca93253f14809893c9703e2a8044957339de387efdbb1298c9a1  x86_64-apple-darwin14/libevent/libevent-2.1.8-stable-3d9a500fadd.tar.gz.hash
+    102564c213528576c7654b8a7a52d9a3aea1db62c1165096a4b87f8dc667d425  x86_64-apple-darwin14/miniupnpc/miniupnpc-2.0.20180203-aa654821275.tar.gz
+    51bb0dc9c69f04dafa59569fa513e8d7d6e38e91da1e6f952a30a1ab578e9d71  x86_64-apple-darwin14/miniupnpc/miniupnpc-2.0.20180203-aa654821275.tar.gz.hash
+    29ebf6c4355cf2a724394c2fe73900fe18f08da137a429371fcdc156fff8a0fa  x86_64-apple-darwin14/native_biplist/native_biplist-1.0.3-d0cc7eff6c3.tar.gz
+    d495e6aec761951c3fb8ba04f33d60939e9fe6960627cb60ea5ba02a09b385d5  x86_64-apple-darwin14/native_biplist/native_biplist-1.0.3-d0cc7eff6c3.tar.gz.hash
+    5948f4957745b367dacc7e3777213993f8f5fd101c226cef777f1c2db8aca770  x86_64-apple-darwin14/native_cctools/native_cctools-807d6fd1be5d2224872e381870c0a75387fe05e6-c34994d12b9.tar.gz
+    a9394f2168da12c663db21042a74fb58de080d2075b50977570e0d23929ffe85  x86_64-apple-darwin14/native_cctools/native_cctools-807d6fd1be5d2224872e381870c0a75387fe05e6-c34994d12b9.tar.gz.hash
+    5a4369aa206e3f381b3e9e7e424880392168f498cde929a95df6234e94665822  x86_64-apple-darwin14/native_cdrkit/native_cdrkit-1.1.11-239c8847aa5.tar.gz
+    4f5ef5747403589c772225427bba6d081a8a88530dd29436b523de972ceab749  x86_64-apple-darwin14/native_cdrkit/native_cdrkit-1.1.11-239c8847aa5.tar.gz.hash
+    ab56566c48ba6754ca5f562f88ced17690e08fb28f620c9070044b128ff51501  x86_64-apple-darwin14/native_ds_store/native_ds_store-1.1.2-c9a48bcb50e.tar.gz
+    e9d4a05c8b87aeeadb77521b82cf7bafbae3d03c8cc80ce6206a687cd8b87d0f  x86_64-apple-darwin14/native_ds_store/native_ds_store-1.1.2-c9a48bcb50e.tar.gz.hash
+    a8d690843cc74c0e0960e877ba73429625e80730016a5343a3ba96c23f211217  x86_64-apple-darwin14/native_libdmg-hfsplus/native_libdmg-hfsplus-0.1-0d5513a7d2a.tar.gz
+    53ce549aebfa2b4bef192a3308048d706591f67a115d80070fb36764a1a7e378  x86_64-apple-darwin14/native_libdmg-hfsplus/native_libdmg-hfsplus-0.1-0d5513a7d2a.tar.gz.hash
+    bb7ce6ae12880df69220938632846cabdc847167daca5906caa5ddc3ee95419e  x86_64-apple-darwin14/native_mac_alias/native_mac_alias-2.0.7-917bc356b3d.tar.gz
+    596570ee328bf1b4b5ee44a7d5ffee9442aade21f57b4a73181fab843975150e  x86_64-apple-darwin14/native_mac_alias/native_mac_alias-2.0.7-917bc356b3d.tar.gz.hash
+    2d0384d30ac8e596f4a093adda57ec67e148558c352d9820fcdb8662082ec618  x86_64-apple-darwin14/openssl/openssl-1.0.1k-686e138a484.tar.gz
+    01d52538fb2d521977c19eabc2b8033a63fd979bf6db556b648ceddfcd0f1b4d  x86_64-apple-darwin14/openssl/openssl-1.0.1k-686e138a484.tar.gz.hash
+    fdb3ad3782ed975b24f0c7c33b25f9e124a5426bc0e0d97987a4954f63a04d1d  x86_64-apple-darwin14/qrencode/qrencode-3.4.4-49b1318ad1d.tar.gz
+    b054112abad14875d6d09bdf37e8709a8dec496e9618f87d5743277837e597e1  x86_64-apple-darwin14/qrencode/qrencode-3.4.4-49b1318ad1d.tar.gz.hash
+    f5aca9e9b529693b6a7f55c9c0180e87e22c26107f0d56162afb8419032744e9  x86_64-apple-darwin14/qt/qt-5.9.8-91ddb7d4f79.tar.gz
+    9bd3a6c82ea69f14bda46162268c047022ce91e0aa4e6535735f0214c7935b12  x86_64-apple-darwin14/qt/qt-5.9.8-91ddb7d4f79.tar.gz.hash
+    88a08a1006b072fe60b468df5e13d1511e5ba0fd0a356f66677407cdc7f859cc  x86_64-apple-darwin14/zeromq/zeromq-4.3.1-c6665e9e45d.tar.gz
+    489413e91276d0af61ea79a99937450f5aeb1190a6eea5067339eebbf81e8cd0  x86_64-apple-darwin14/zeromq/zeromq-4.3.1-c6665e9e45d.tar.gz.hash
+    4ba5cde04d4ec8a36911caadb38527b554f5d1ef567deeb551943ba922b70f1f  x86_64-apple-darwin14/zlib/zlib-1.2.11-7a313432245.tar.gz
+    8060cc55c834146694b2e38bdea607442ca3a86b02dc4788497017873bf8fbea  x86_64-apple-darwin14/zlib/zlib-1.2.11-7a313432245.tar.gz.hash
+>>>>>>> 0c1afae329eafb6fab33755dcccd80de3e982090
 - release: 0.19.1-osx-unsigned
 - name: umkoin-core-osx-0.19
 - type: build
